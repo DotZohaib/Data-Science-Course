@@ -1,0 +1,1001 @@
+id,date,time,crime_type,city,state,location_description,victim_age,victim_gender,victim_race
+1,2022-09-09,18:58:57,Homicide,Philadelphia,PA,9916 Broadway,34,Male,Other
+2,2022-07-10,12:10:59,Assault,Phoenix,AZ,6853 Oak St,13,Female,Black
+3,2024-12-31,09:26:12,Burglary,San Antonio,TX,3760 Maple Ave,23,Male,Asian
+4,2024-04-12,23:17:28,Vandalism,Philadelphia,PA,6781 Main St,36,Other,Asian
+5,2023-07-19,04:49:39,Fraud,San Antonio,TX,3239 Broadway,26,Other,Other
+6,2021-09-30,03:17:56,Drug Offense,Chicago,IL,635 Oak St,70,Non-binary,Other
+7,2024-11-22,08:41:48,Homicide,Philadelphia,PA,2725 Pine St,48,Other,Asian
+8,2023-12-09,08:10:36,Drug Offense,Houston,TX,457 Pine St,47,Non-binary,Asian
+9,2020-08-06,04:13:54,Fraud,Houston,TX,7584 Oak St,28,Other,Black
+10,2024-04-09,07:18:22,Domestic Violence,San Diego,CA,9233 Main St,44,Female,White
+11,2023-03-11,02:36:36,Arson,New York,NY,9278 Elm St,29,Non-binary,Hispanic
+12,2023-04-13,22:33:27,Burglary,Chicago,IL,5313 Pine St,20,Female,Other
+13,2022-07-27,12:36:44,Domestic Violence,New York,NY,6760 Oak St,30,Other,Hispanic
+14,2022-02-03,00:03:33,Theft,San Diego,CA,9702 Elm St,17,Male,Other
+15,2020-09-04,06:02:52,Theft,Dallas,TX,786 Oak St,53,Other,White
+16,2022-10-08,05:15:36,Homicide,New York,NY,130 Main St,29,Male,Black
+17,2021-05-03,18:08:12,Vandalism,Los Angeles,CA,1874 Elm St,90,Female,Asian
+18,2023-04-17,05:15:45,Robbery,Philadelphia,PA,8306 Pine St,39,Other,Asian
+19,2024-04-21,08:11:18,Domestic Violence,Chicago,IL,9418 Pine St,61,Male,Hispanic
+20,2022-04-13,17:50:42,Robbery,Chicago,IL,9097 Broadway,38,Non-binary,Black
+21,2021-04-11,13:29:16,Robbery,San Antonio,TX,2022 Oak St,60,Female,Other
+22,2021-05-02,18:27:55,Theft,Philadelphia,PA,2397 Elm St,25,Non-binary,White
+23,2025-03-22,17:48:24,Burglary,Chicago,IL,6803 Pine St,90,Non-binary,Hispanic
+24,2024-11-27,11:13:43,Burglary,San Antonio,TX,841 Oak St,40,Male,Black
+25,2025-04-18,19:27:42,Vandalism,Los Angeles,CA,5908 Pine St,34,Other,Black
+26,2025-04-29,22:26:29,Theft,San Diego,CA,6420 Pine St,34,Female,Black
+27,2020-07-31,12:37:25,Domestic Violence,Philadelphia,PA,960 Pine St,29,Male,Asian
+28,2022-10-31,21:11:58,Fraud,Houston,TX,5435 Main St,16,Female,Hispanic
+29,2020-12-18,23:44:06,Assault,Dallas,TX,5734 Broadway,41,Male,Other
+30,2023-01-05,13:16:06,Domestic Violence,Houston,TX,1677 Elm St,60,Male,Hispanic
+31,2021-12-15,02:59:11,Burglary,Philadelphia,PA,5657 Main St,71,Non-binary,Other
+32,2021-08-19,23:22:06,Drug Offense,San Antonio,TX,5146 Broadway,62,Female,Hispanic
+33,2023-02-27,11:34:52,Vandalism,Phoenix,AZ,62 Oak St,45,Non-binary,Asian
+34,2020-10-31,02:59:27,Fraud,Los Angeles,CA,8978 Broadway,66,Other,Hispanic
+35,2024-09-09,06:55:24,Homicide,New York,NY,2205 Maple Ave,25,Female,Black
+36,2023-01-22,19:26:08,Burglary,Los Angeles,CA,7051 Broadway,53,Other,Black
+37,2020-10-23,03:32:52,Domestic Violence,Philadelphia,PA,9007 Oak St,67,Female,Hispanic
+38,2021-05-06,12:00:53,Arson,Chicago,IL,6896 Oak St,65,Other,Hispanic
+39,2022-05-26,13:22:45,Domestic Violence,Houston,TX,1537 Main St,77,Other,Hispanic
+40,2021-07-19,22:10:28,Arson,Los Angeles,CA,7582 Elm St,46,Female,Black
+41,2021-09-25,10:45:32,Burglary,Phoenix,AZ,860 Pine St,40,Female,Black
+42,2025-03-20,20:54:05,Homicide,New York,NY,8884 Elm St,51,Other,Hispanic
+43,2024-03-12,02:04:32,Assault,San Antonio,TX,4791 Broadway,23,Male,Other
+44,2024-08-22,19:07:49,Burglary,New York,NY,2071 Main St,69,Other,Black
+45,2024-11-24,22:13:00,Assault,Dallas,TX,8072 Elm St,30,Male,Hispanic
+46,2022-09-07,16:30:49,Assault,San Antonio,TX,8122 Main St,30,Non-binary,Asian
+47,2021-08-08,13:23:27,Robbery,Los Angeles,CA,1061 Pine St,36,Non-binary,White
+48,2021-01-25,22:41:26,Arson,New York,NY,9898 Main St,52,Male,Hispanic
+49,2020-08-26,11:38:13,Burglary,Dallas,TX,2983 Maple Ave,82,Non-binary,White
+50,2022-05-22,23:53:37,Drug Offense,Chicago,IL,424 Main St,41,Non-binary,Asian
+51,2023-12-02,05:32:02,Robbery,Houston,TX,3175 Main St,46,Male,Asian
+52,2023-01-07,21:19:28,Assault,Los Angeles,CA,8643 Maple Ave,74,Male,White
+53,2022-01-05,15:12:41,Homicide,San Jose,CA,8873 Elm St,56,Male,White
+54,2021-07-24,12:26:35,Arson,Houston,TX,393 Elm St,81,Male,Black
+55,2022-03-26,03:29:57,Arson,Phoenix,AZ,9571 Broadway,64,Other,Other
+56,2023-10-11,04:17:30,Drug Offense,San Diego,CA,2489 Oak St,67,Non-binary,Black
+57,2025-05-02,19:06:39,Burglary,Dallas,TX,1850 Elm St,20,Other,Asian
+58,2024-12-18,14:01:18,Assault,Los Angeles,CA,9401 Main St,55,Other,White
+59,2022-04-04,13:14:47,Burglary,Phoenix,AZ,1537 Pine St,14,Male,White
+60,2020-10-05,08:34:56,Assault,Houston,TX,16 Main St,64,Female,Asian
+61,2022-02-16,19:15:03,Burglary,San Jose,CA,5164 Oak St,40,Male,White
+62,2021-09-09,02:27:51,Arson,San Jose,CA,9566 Broadway,28,Male,Asian
+63,2023-08-13,04:13:16,Domestic Violence,Philadelphia,PA,9038 Oak St,82,Other,Black
+64,2023-02-09,19:05:25,Domestic Violence,San Antonio,TX,9607 Broadway,34,Female,White
+65,2023-01-10,23:48:26,Theft,Houston,TX,8155 Elm St,35,Non-binary,Black
+66,2020-11-04,14:20:57,Vandalism,Dallas,TX,5617 Oak St,90,Male,Hispanic
+67,2023-10-24,17:20:03,Domestic Violence,New York,NY,1167 Pine St,74,Non-binary,Other
+68,2024-06-10,05:35:39,Burglary,San Diego,CA,186 Broadway,14,Male,Asian
+69,2020-12-26,09:00:48,Theft,San Antonio,TX,7635 Main St,26,Male,Black
+70,2024-08-05,06:56:19,Domestic Violence,Houston,TX,9329 Broadway,33,Other,Other
+71,2023-11-14,01:53:10,Assault,San Diego,CA,3412 Main St,27,Male,Black
+72,2023-02-14,17:48:45,Robbery,Los Angeles,CA,5325 Elm St,59,Non-binary,White
+73,2022-05-13,16:36:02,Arson,Chicago,IL,6481 Main St,26,Other,White
+74,2023-04-13,02:41:24,Vandalism,Chicago,IL,8414 Oak St,67,Non-binary,Hispanic
+75,2024-09-16,02:17:31,Assault,Los Angeles,CA,1254 Oak St,62,Male,Black
+76,2022-05-02,22:16:39,Arson,Phoenix,AZ,2589 Oak St,56,Other,Hispanic
+77,2021-10-29,05:28:11,Fraud,Dallas,TX,8318 Pine St,65,Non-binary,Asian
+78,2025-04-26,15:20:56,Burglary,Los Angeles,CA,5269 Main St,24,Female,Asian
+79,2024-08-12,06:33:11,Homicide,Houston,TX,924 Pine St,52,Male,Hispanic
+80,2023-08-03,04:39:10,Burglary,San Diego,CA,4340 Maple Ave,50,Female,Asian
+81,2023-05-27,06:25:14,Domestic Violence,San Jose,CA,2261 Elm St,70,Female,Other
+82,2022-04-22,02:04:27,Burglary,Phoenix,AZ,4441 Elm St,44,Female,Asian
+83,2022-12-08,18:20:22,Drug Offense,Philadelphia,PA,648 Maple Ave,43,Female,Other
+84,2021-02-25,06:27:40,Homicide,San Jose,CA,1114 Elm St,39,Male,Black
+85,2023-04-19,20:15:11,Vandalism,Philadelphia,PA,4833 Maple Ave,16,Other,Asian
+86,2023-11-01,09:54:38,Arson,New York,NY,963 Maple Ave,53,Male,Asian
+87,2021-06-27,16:10:58,Domestic Violence,San Diego,CA,9462 Main St,75,Female,Hispanic
+88,2025-03-22,04:01:31,Arson,Los Angeles,CA,5074 Oak St,90,Other,Black
+89,2024-04-12,06:40:05,Vandalism,Phoenix,AZ,3997 Elm St,89,Female,Hispanic
+90,2025-07-04,22:33:19,Homicide,Philadelphia,PA,2783 Main St,15,Other,Other
+91,2022-01-10,02:09:25,Assault,Los Angeles,CA,282 Oak St,41,Other,Other
+92,2022-03-17,00:09:35,Fraud,Chicago,IL,5634 Maple Ave,82,Male,White
+93,2020-11-12,14:22:45,Arson,San Diego,CA,7462 Main St,27,Male,White
+94,2022-01-10,00:23:17,Assault,Houston,TX,8231 Maple Ave,54,Female,Black
+95,2023-03-01,10:22:08,Vandalism,Chicago,IL,153 Maple Ave,81,Non-binary,Asian
+96,2024-10-03,09:22:46,Theft,San Antonio,TX,4998 Pine St,23,Male,Hispanic
+97,2021-12-09,14:30:49,Vandalism,Dallas,TX,274 Broadway,35,Male,White
+98,2023-07-05,18:55:22,Domestic Violence,Phoenix,AZ,8226 Broadway,20,Non-binary,Other
+99,2021-02-16,08:54:47,Assault,San Jose,CA,3114 Pine St,59,Other,Other
+100,2024-06-14,16:18:49,Vandalism,San Jose,CA,4227 Oak St,17,Female,Hispanic
+101,2021-03-28,12:36:24,Domestic Violence,San Antonio,TX,3426 Pine St,58,Female,Other
+102,2021-06-22,15:37:14,Vandalism,Phoenix,AZ,5919 Oak St,86,Male,Black
+103,2020-10-31,21:38:39,Fraud,San Antonio,TX,170 Elm St,74,Non-binary,Other
+104,2023-02-01,12:49:39,Arson,San Jose,CA,6392 Pine St,67,Female,Asian
+105,2025-04-02,07:04:01,Arson,New York,NY,7610 Oak St,41,Male,Other
+106,2023-06-25,11:34:54,Homicide,San Jose,CA,5782 Main St,22,Female,Asian
+107,2023-07-04,21:46:20,Vandalism,New York,NY,3538 Maple Ave,47,Female,White
+108,2024-11-24,22:42:01,Vandalism,Dallas,TX,5547 Maple Ave,25,Non-binary,Other
+109,2022-12-18,11:42:29,Domestic Violence,San Diego,CA,5120 Elm St,40,Female,Other
+110,2022-09-06,16:09:58,Theft,Phoenix,AZ,8866 Main St,84,Other,Asian
+111,2023-12-10,15:04:39,Theft,New York,NY,8904 Oak St,39,Male,Black
+112,2021-01-30,03:41:40,Drug Offense,Phoenix,AZ,1619 Maple Ave,34,Other,White
+113,2021-01-04,20:59:32,Domestic Violence,Dallas,TX,9992 Elm St,14,Male,White
+114,2021-12-05,15:28:42,Fraud,Houston,TX,8074 Elm St,57,Female,White
+115,2022-11-10,08:42:49,Vandalism,Dallas,TX,5650 Pine St,38,Male,Other
+116,2021-04-02,14:31:31,Theft,San Jose,CA,9405 Maple Ave,16,Non-binary,Other
+117,2023-10-14,18:49:01,Burglary,San Jose,CA,7445 Elm St,63,Male,White
+118,2022-06-14,03:13:14,Drug Offense,San Diego,CA,5323 Elm St,54,Other,Black
+119,2024-02-22,19:51:30,Robbery,Los Angeles,CA,2684 Broadway,85,Male,Asian
+120,2025-01-24,15:58:07,Burglary,San Jose,CA,2606 Main St,21,Non-binary,White
+121,2023-05-26,06:43:57,Drug Offense,Houston,TX,2447 Oak St,67,Female,White
+122,2020-12-02,00:01:42,Vandalism,San Antonio,TX,8238 Elm St,70,Female,Asian
+123,2020-11-14,16:46:56,Domestic Violence,San Jose,CA,5115 Broadway,71,Other,Black
+124,2022-01-19,09:16:54,Robbery,New York,NY,7673 Broadway,79,Male,Other
+125,2023-06-19,23:57:50,Homicide,New York,NY,1764 Maple Ave,67,Male,Asian
+126,2025-04-11,13:43:10,Vandalism,San Diego,CA,5295 Main St,30,Male,Other
+127,2024-11-06,06:30:56,Fraud,New York,NY,7386 Main St,56,Non-binary,White
+128,2025-07-04,22:18:23,Homicide,San Diego,CA,3427 Oak St,83,Other,Other
+129,2025-02-05,15:02:14,Theft,Dallas,TX,2087 Maple Ave,33,Non-binary,Hispanic
+130,2022-07-28,09:59:53,Domestic Violence,San Antonio,TX,1673 Pine St,40,Other,White
+131,2022-12-19,12:05:14,Homicide,Dallas,TX,2690 Broadway,25,Other,Hispanic
+132,2021-01-08,16:32:37,Arson,Philadelphia,PA,7265 Pine St,14,Male,Asian
+133,2020-11-14,10:00:27,Robbery,Phoenix,AZ,5228 Broadway,17,Male,Black
+134,2023-04-24,12:58:24,Drug Offense,San Antonio,TX,2291 Pine St,80,Female,Hispanic
+135,2023-01-08,00:39:19,Fraud,San Jose,CA,5138 Broadway,45,Male,Other
+136,2023-02-22,18:08:35,Domestic Violence,Philadelphia,PA,1970 Broadway,78,Male,Asian
+137,2023-04-27,13:06:27,Robbery,Phoenix,AZ,7634 Maple Ave,56,Male,White
+138,2021-09-12,15:10:14,Robbery,San Jose,CA,4216 Oak St,83,Other,Black
+139,2021-11-19,00:13:53,Burglary,Philadelphia,PA,37 Elm St,49,Non-binary,Other
+140,2023-01-25,02:22:21,Assault,Dallas,TX,2192 Elm St,35,Non-binary,Black
+141,2024-12-03,06:51:13,Vandalism,San Diego,CA,5736 Maple Ave,88,Female,Other
+142,2024-06-22,12:17:43,Domestic Violence,Philadelphia,PA,3753 Broadway,26,Other,Black
+143,2022-07-30,12:10:31,Drug Offense,Philadelphia,PA,6912 Elm St,75,Female,Other
+144,2025-02-07,12:33:49,Theft,San Diego,CA,9371 Broadway,61,Other,Other
+145,2021-03-20,09:47:49,Fraud,Philadelphia,PA,6120 Main St,39,Male,White
+146,2024-10-22,00:47:23,Vandalism,Chicago,IL,3380 Maple Ave,82,Non-binary,Other
+147,2022-06-18,10:01:24,Burglary,Los Angeles,CA,9559 Pine St,42,Female,White
+148,2022-01-19,06:15:53,Assault,Chicago,IL,2267 Main St,75,Male,Black
+149,2022-12-30,18:18:07,Burglary,Dallas,TX,7270 Broadway,40,Other,White
+150,2021-04-27,00:33:06,Burglary,Houston,TX,1398 Pine St,34,Non-binary,Black
+151,2022-04-13,06:30:36,Burglary,Philadelphia,PA,9084 Main St,70,Other,White
+152,2022-04-07,11:50:56,Vandalism,Dallas,TX,3526 Oak St,84,Non-binary,Asian
+153,2021-08-22,01:08:25,Domestic Violence,Los Angeles,CA,7447 Elm St,27,Other,White
+154,2021-09-01,22:16:54,Vandalism,Dallas,TX,3909 Pine St,18,Other,White
+155,2025-06-07,07:52:27,Fraud,Dallas,TX,7130 Oak St,35,Male,White
+156,2022-10-09,16:33:55,Assault,Chicago,IL,7079 Pine St,40,Other,White
+157,2023-08-22,17:46:28,Assault,San Diego,CA,8196 Pine St,89,Non-binary,Hispanic
+158,2021-05-29,12:18:37,Assault,San Jose,CA,5125 Maple Ave,12,Other,White
+159,2022-02-20,02:13:08,Vandalism,New York,NY,7381 Pine St,44,Female,Black
+160,2021-03-07,06:16:37,Vandalism,San Antonio,TX,1513 Main St,22,Male,Asian
+161,2021-03-10,00:58:51,Theft,Phoenix,AZ,4785 Pine St,52,Other,Hispanic
+162,2023-12-09,09:34:23,Drug Offense,Dallas,TX,3365 Broadway,72,Non-binary,White
+163,2021-06-24,04:11:22,Fraud,Chicago,IL,7198 Maple Ave,28,Other,White
+164,2022-07-28,18:00:49,Domestic Violence,San Diego,CA,9778 Main St,89,Male,Asian
+165,2021-07-02,00:15:58,Drug Offense,San Diego,CA,5022 Elm St,65,Female,Other
+166,2020-10-07,01:01:17,Assault,San Jose,CA,977 Main St,35,Non-binary,Black
+167,2023-11-03,10:23:43,Arson,Los Angeles,CA,3886 Main St,34,Female,Black
+168,2022-05-28,08:47:10,Arson,Los Angeles,CA,1902 Broadway,38,Female,Other
+169,2023-06-28,04:22:25,Vandalism,San Diego,CA,2713 Maple Ave,80,Male,Black
+170,2022-12-09,20:59:20,Vandalism,Phoenix,AZ,1393 Pine St,48,Female,Asian
+171,2023-01-13,13:54:16,Robbery,San Antonio,TX,4876 Main St,13,Other,Other
+172,2020-12-25,05:21:18,Assault,Los Angeles,CA,9716 Broadway,27,Non-binary,Hispanic
+173,2025-01-13,14:22:23,Burglary,Houston,TX,5009 Elm St,79,Female,White
+174,2023-01-24,05:49:36,Burglary,Dallas,TX,5264 Oak St,60,Other,White
+175,2022-09-20,11:05:41,Homicide,Phoenix,AZ,6401 Elm St,75,Female,Other
+176,2024-11-17,19:21:46,Drug Offense,New York,NY,2493 Maple Ave,43,Female,Other
+177,2022-10-05,18:36:29,Theft,Philadelphia,PA,3045 Broadway,54,Female,Hispanic
+178,2023-06-18,09:08:29,Domestic Violence,San Diego,CA,8711 Elm St,81,Non-binary,Black
+179,2021-01-16,11:24:34,Burglary,San Diego,CA,1985 Broadway,88,Non-binary,Black
+180,2023-10-04,17:52:32,Burglary,Dallas,TX,7012 Maple Ave,45,Non-binary,Other
+181,2023-03-12,18:15:04,Theft,Dallas,TX,2421 Main St,67,Other,Asian
+182,2024-01-14,22:58:48,Domestic Violence,San Antonio,TX,8111 Broadway,62,Male,Asian
+183,2023-08-17,21:56:19,Arson,Philadelphia,PA,1832 Main St,35,Female,White
+184,2024-08-23,10:20:08,Domestic Violence,San Diego,CA,7559 Elm St,40,Male,White
+185,2022-11-07,08:09:48,Assault,San Diego,CA,961 Pine St,26,Female,Asian
+186,2024-03-21,22:17:35,Domestic Violence,Los Angeles,CA,6231 Oak St,44,Male,White
+187,2022-01-09,19:00:13,Vandalism,Houston,TX,1905 Pine St,50,Non-binary,Hispanic
+188,2023-05-21,22:29:22,Burglary,Phoenix,AZ,2184 Oak St,44,Female,Black
+189,2025-01-22,17:20:48,Drug Offense,New York,NY,9031 Elm St,34,Non-binary,Hispanic
+190,2022-09-08,15:18:09,Fraud,San Jose,CA,9268 Oak St,62,Female,Other
+191,2023-11-01,22:18:41,Drug Offense,Dallas,TX,393 Maple Ave,89,Male,Asian
+192,2020-09-25,13:07:29,Theft,Chicago,IL,4651 Pine St,60,Female,White
+193,2025-01-29,02:33:24,Theft,Los Angeles,CA,2879 Elm St,73,Female,Hispanic
+194,2023-11-20,20:16:26,Domestic Violence,Chicago,IL,6840 Pine St,82,Non-binary,Other
+195,2021-07-20,10:56:28,Fraud,Phoenix,AZ,1417 Main St,43,Non-binary,Hispanic
+196,2022-12-25,05:46:29,Theft,Dallas,TX,477 Maple Ave,18,Non-binary,Other
+197,2020-08-21,22:00:20,Burglary,Houston,TX,8612 Oak St,16,Other,Black
+198,2024-01-18,04:49:21,Theft,Houston,TX,916 Oak St,49,Other,Hispanic
+199,2020-09-17,13:13:34,Drug Offense,Chicago,IL,5083 Pine St,42,Female,Asian
+200,2020-08-25,04:45:28,Drug Offense,Phoenix,AZ,2439 Elm St,41,Non-binary,White
+201,2025-03-14,10:27:20,Robbery,San Antonio,TX,5055 Elm St,30,Other,Asian
+202,2024-01-19,01:55:07,Vandalism,Houston,TX,6456 Maple Ave,47,Non-binary,Asian
+203,2022-02-16,14:12:57,Theft,New York,NY,2775 Main St,19,Other,Black
+204,2022-10-21,16:02:02,Drug Offense,Phoenix,AZ,5846 Pine St,31,Female,Hispanic
+205,2023-03-10,02:06:28,Fraud,Phoenix,AZ,2285 Elm St,12,Female,White
+206,2022-09-24,23:02:00,Homicide,Houston,TX,3954 Broadway,45,Female,Hispanic
+207,2021-08-17,05:35:44,Domestic Violence,Philadelphia,PA,7183 Oak St,13,Other,Black
+208,2023-12-18,18:17:41,Robbery,San Jose,CA,6741 Pine St,41,Male,White
+209,2022-01-23,07:21:01,Robbery,New York,NY,8276 Elm St,23,Female,Asian
+210,2025-01-05,08:46:34,Robbery,Dallas,TX,6654 Main St,89,Non-binary,Black
+211,2024-07-22,21:57:42,Burglary,San Jose,CA,8734 Main St,87,Female,Asian
+212,2024-08-15,06:28:48,Homicide,New York,NY,9579 Maple Ave,47,Female,Other
+213,2024-04-06,10:11:49,Burglary,New York,NY,4901 Oak St,76,Male,Black
+214,2022-03-14,10:18:07,Domestic Violence,San Diego,CA,2149 Broadway,26,Non-binary,Hispanic
+215,2020-12-27,01:42:48,Theft,Houston,TX,7355 Broadway,85,Female,Other
+216,2022-06-14,20:05:28,Theft,Houston,TX,138 Main St,76,Other,Hispanic
+217,2021-07-15,02:49:18,Fraud,San Antonio,TX,9037 Maple Ave,53,Female,White
+218,2023-07-26,05:54:53,Homicide,Los Angeles,CA,1066 Maple Ave,18,Male,Black
+219,2024-07-25,12:30:53,Burglary,New York,NY,3185 Elm St,33,Other,White
+220,2025-03-06,02:19:07,Arson,Los Angeles,CA,5760 Broadway,28,Female,Other
+221,2023-09-22,18:16:17,Theft,Dallas,TX,9064 Pine St,68,Female,Black
+222,2021-09-15,16:53:43,Arson,Houston,TX,5451 Maple Ave,43,Male,Asian
+223,2023-11-30,06:09:18,Drug Offense,Chicago,IL,2077 Elm St,49,Non-binary,Hispanic
+224,2023-12-21,11:12:09,Arson,San Diego,CA,528 Maple Ave,43,Female,White
+225,2023-05-02,02:23:44,Vandalism,Los Angeles,CA,7867 Pine St,41,Non-binary,Asian
+226,2024-04-14,15:48:20,Fraud,New York,NY,1987 Oak St,40,Male,White
+227,2021-07-28,00:48:33,Theft,Houston,TX,2944 Maple Ave,75,Female,White
+228,2023-05-12,22:53:50,Homicide,Los Angeles,CA,9815 Broadway,84,Male,Hispanic
+229,2023-04-28,23:17:37,Fraud,New York,NY,345 Oak St,70,Other,White
+230,2024-06-24,17:51:53,Homicide,Los Angeles,CA,2505 Broadway,48,Non-binary,Other
+231,2021-06-29,04:26:49,Homicide,San Diego,CA,149 Main St,60,Non-binary,Asian
+232,2021-02-14,14:49:21,Fraud,Dallas,TX,9109 Broadway,37,Other,Hispanic
+233,2024-06-10,04:46:32,Domestic Violence,Chicago,IL,858 Maple Ave,34,Non-binary,Asian
+234,2022-07-16,22:55:28,Arson,Los Angeles,CA,4975 Broadway,78,Other,Black
+235,2023-10-22,10:08:29,Robbery,Chicago,IL,9596 Broadway,49,Other,Asian
+236,2021-01-30,01:45:45,Homicide,Dallas,TX,5354 Oak St,43,Female,Asian
+237,2023-08-22,00:06:52,Theft,New York,NY,9868 Oak St,39,Non-binary,White
+238,2023-03-27,23:01:56,Domestic Violence,San Jose,CA,9000 Pine St,29,Female,Asian
+239,2023-05-25,11:11:54,Robbery,Houston,TX,3345 Oak St,50,Other,Asian
+240,2023-11-02,00:26:56,Drug Offense,Dallas,TX,673 Main St,52,Other,Black
+241,2022-03-06,13:10:59,Domestic Violence,Los Angeles,CA,6560 Elm St,61,Female,White
+242,2022-07-14,04:13:32,Robbery,Chicago,IL,3667 Oak St,89,Male,Black
+243,2022-12-08,06:40:26,Homicide,San Jose,CA,2014 Maple Ave,87,Other,Hispanic
+244,2020-10-12,19:49:30,Arson,Philadelphia,PA,9266 Broadway,41,Other,Hispanic
+245,2021-06-29,07:20:38,Homicide,San Jose,CA,9342 Maple Ave,32,Non-binary,Other
+246,2024-07-04,19:40:26,Fraud,San Antonio,TX,657 Elm St,36,Female,Asian
+247,2025-04-25,18:38:35,Drug Offense,Philadelphia,PA,6665 Maple Ave,14,Non-binary,White
+248,2025-05-16,19:34:35,Homicide,Los Angeles,CA,6659 Maple Ave,47,Female,Hispanic
+249,2023-08-02,07:49:56,Burglary,Philadelphia,PA,2326 Oak St,85,Female,Asian
+250,2023-07-05,10:20:08,Theft,San Antonio,TX,6536 Elm St,66,Other,Other
+251,2024-03-24,17:15:14,Homicide,San Jose,CA,2908 Pine St,29,Male,Other
+252,2022-07-08,03:54:19,Burglary,Chicago,IL,6017 Main St,48,Male,White
+253,2024-03-08,03:33:32,Domestic Violence,New York,NY,2897 Elm St,75,Female,Black
+254,2024-07-11,22:10:27,Burglary,Phoenix,AZ,105 Elm St,79,Male,Black
+255,2024-11-13,13:06:18,Homicide,New York,NY,6839 Broadway,89,Male,White
+256,2023-03-05,04:03:52,Arson,New York,NY,534 Oak St,53,Male,Other
+257,2024-02-05,22:34:01,Robbery,Dallas,TX,1971 Oak St,73,Non-binary,Other
+258,2023-08-04,12:37:01,Burglary,New York,NY,5427 Oak St,73,Non-binary,Black
+259,2024-03-13,14:18:02,Robbery,San Diego,CA,4177 Broadway,22,Male,Asian
+260,2021-02-27,20:05:35,Domestic Violence,Los Angeles,CA,8151 Pine St,53,Non-binary,Other
+261,2020-09-17,10:44:00,Burglary,Houston,TX,4528 Broadway,66,Female,White
+262,2021-05-09,13:25:23,Theft,Phoenix,AZ,1335 Oak St,86,Male,Hispanic
+263,2023-12-24,03:04:18,Drug Offense,Dallas,TX,3406 Oak St,17,Non-binary,Black
+264,2023-05-23,11:45:42,Assault,San Diego,CA,1443 Elm St,83,Female,Asian
+265,2025-01-19,23:43:30,Domestic Violence,Dallas,TX,9079 Pine St,34,Male,Other
+266,2023-02-21,07:06:06,Theft,Los Angeles,CA,3290 Broadway,54,Other,Asian
+267,2025-01-22,18:29:50,Arson,Dallas,TX,2833 Main St,24,Non-binary,Asian
+268,2023-02-24,00:29:54,Robbery,Phoenix,AZ,201 Broadway,85,Male,Asian
+269,2021-02-14,07:05:48,Burglary,Chicago,IL,1975 Main St,90,Male,Other
+270,2023-02-03,15:18:40,Domestic Violence,Phoenix,AZ,2155 Maple Ave,31,Female,Other
+271,2023-10-20,05:14:41,Assault,San Antonio,TX,3440 Broadway,31,Male,Hispanic
+272,2023-12-12,12:50:39,Arson,Philadelphia,PA,6671 Main St,72,Female,Asian
+273,2023-08-07,16:45:18,Arson,San Jose,CA,9424 Pine St,70,Male,Hispanic
+274,2021-12-14,13:30:06,Arson,New York,NY,417 Broadway,32,Other,Other
+275,2021-07-25,18:39:16,Assault,Los Angeles,CA,1013 Broadway,63,Female,Black
+276,2022-07-11,23:22:07,Fraud,Philadelphia,PA,3583 Elm St,20,Non-binary,Hispanic
+277,2022-06-19,18:30:32,Domestic Violence,Los Angeles,CA,233 Oak St,74,Male,White
+278,2020-10-27,04:20:47,Burglary,Chicago,IL,1995 Oak St,53,Other,Asian
+279,2024-11-07,08:23:12,Homicide,San Diego,CA,3310 Elm St,18,Non-binary,Black
+280,2022-04-14,23:18:20,Assault,Los Angeles,CA,9083 Broadway,84,Other,Black
+281,2025-06-07,20:17:28,Robbery,San Antonio,TX,1144 Pine St,80,Female,Asian
+282,2023-09-21,22:28:39,Robbery,Los Angeles,CA,6737 Pine St,14,Male,Black
+283,2023-08-17,20:43:34,Vandalism,Phoenix,AZ,6289 Main St,63,Male,White
+284,2023-03-22,10:16:52,Burglary,Chicago,IL,4284 Pine St,86,Other,Other
+285,2024-05-05,10:15:23,Robbery,Philadelphia,PA,2472 Broadway,59,Other,Black
+286,2024-09-19,13:41:07,Domestic Violence,San Antonio,TX,7257 Pine St,74,Male,Hispanic
+287,2022-02-01,18:40:48,Fraud,Chicago,IL,5898 Broadway,87,Non-binary,Other
+288,2025-03-13,02:16:21,Vandalism,New York,NY,6487 Maple Ave,22,Male,Black
+289,2021-05-29,18:06:33,Burglary,New York,NY,9066 Elm St,23,Male,Hispanic
+290,2024-03-18,04:24:37,Drug Offense,Philadelphia,PA,1001 Maple Ave,57,Non-binary,Other
+291,2020-11-22,18:37:53,Burglary,San Antonio,TX,2784 Broadway,34,Other,Other
+292,2021-02-05,02:15:35,Burglary,Los Angeles,CA,9210 Elm St,52,Non-binary,White
+293,2024-08-01,02:25:41,Arson,Dallas,TX,8441 Pine St,44,Male,Black
+294,2021-09-13,07:45:26,Domestic Violence,San Antonio,TX,8758 Maple Ave,18,Male,Other
+295,2025-07-26,21:10:41,Robbery,San Diego,CA,5432 Oak St,34,Non-binary,Black
+296,2024-07-08,20:44:41,Assault,Philadelphia,PA,8616 Elm St,54,Female,White
+297,2024-07-23,10:07:01,Arson,Philadelphia,PA,6772 Elm St,42,Female,Black
+298,2023-11-24,05:48:38,Drug Offense,Chicago,IL,2472 Oak St,85,Other,Black
+299,2025-03-13,04:20:56,Arson,New York,NY,9148 Main St,73,Male,Other
+300,2021-05-22,02:07:41,Fraud,Chicago,IL,9010 Broadway,31,Non-binary,Hispanic
+301,2021-10-08,03:07:58,Drug Offense,Philadelphia,PA,6764 Broadway,43,Female,White
+302,2023-08-09,00:50:52,Fraud,San Antonio,TX,4622 Main St,54,Non-binary,White
+303,2020-09-19,01:38:47,Homicide,Dallas,TX,8279 Maple Ave,42,Non-binary,Hispanic
+304,2023-04-10,07:14:25,Drug Offense,Chicago,IL,5111 Broadway,29,Other,White
+305,2024-11-21,02:13:49,Vandalism,New York,NY,2967 Maple Ave,48,Male,Asian
+306,2022-09-10,00:41:27,Fraud,San Antonio,TX,8198 Elm St,49,Male,Hispanic
+307,2023-07-10,03:35:09,Assault,Chicago,IL,8579 Elm St,25,Male,Other
+308,2022-05-26,00:34:20,Theft,San Antonio,TX,4330 Maple Ave,44,Non-binary,Black
+309,2022-03-28,16:11:20,Homicide,San Antonio,TX,5145 Pine St,78,Male,White
+310,2021-04-30,21:09:45,Robbery,San Jose,CA,194 Broadway,84,Non-binary,Asian
+311,2021-05-29,03:00:58,Theft,Dallas,TX,97 Pine St,52,Female,Hispanic
+312,2021-01-13,06:36:00,Robbery,Phoenix,AZ,7647 Pine St,40,Female,Asian
+313,2024-10-27,02:10:34,Assault,Chicago,IL,1802 Oak St,65,Male,White
+314,2024-03-02,01:48:09,Domestic Violence,Los Angeles,CA,3309 Maple Ave,36,Other,White
+315,2025-04-18,23:22:57,Drug Offense,New York,NY,71 Main St,90,Female,Hispanic
+316,2023-10-13,14:25:47,Vandalism,Philadelphia,PA,7858 Pine St,90,Male,Asian
+317,2022-03-15,18:36:41,Burglary,Philadelphia,PA,8893 Oak St,61,Female,Hispanic
+318,2023-01-18,03:18:09,Robbery,New York,NY,7866 Main St,22,Non-binary,Hispanic
+319,2021-08-22,22:59:41,Vandalism,San Antonio,TX,3060 Oak St,48,Non-binary,Black
+320,2023-10-18,12:46:42,Drug Offense,Los Angeles,CA,7411 Pine St,34,Female,White
+321,2024-03-30,07:38:27,Arson,Dallas,TX,2584 Maple Ave,30,Male,White
+322,2023-11-02,00:34:04,Theft,Chicago,IL,1307 Elm St,69,Male,Asian
+323,2024-06-12,18:20:23,Burglary,Dallas,TX,2819 Main St,19,Other,Asian
+324,2024-03-13,16:24:37,Domestic Violence,New York,NY,8335 Pine St,82,Other,White
+325,2024-11-29,08:08:40,Assault,San Jose,CA,7548 Oak St,76,Male,Other
+326,2022-10-06,08:25:59,Theft,Philadelphia,PA,8414 Broadway,84,Female,Asian
+327,2023-02-23,10:09:47,Homicide,San Jose,CA,2513 Pine St,89,Female,Asian
+328,2022-08-20,01:40:04,Drug Offense,San Antonio,TX,5394 Pine St,28,Female,Other
+329,2022-08-31,04:49:07,Fraud,San Antonio,TX,4115 Oak St,56,Female,Black
+330,2024-12-15,23:52:50,Drug Offense,Philadelphia,PA,5712 Maple Ave,64,Male,Hispanic
+331,2024-11-29,11:06:46,Drug Offense,Philadelphia,PA,5851 Oak St,61,Other,Hispanic
+332,2023-03-03,10:30:24,Assault,New York,NY,9501 Elm St,15,Other,Black
+333,2023-03-16,13:32:16,Arson,New York,NY,14 Broadway,47,Male,Hispanic
+334,2023-09-10,06:18:02,Homicide,Dallas,TX,7779 Main St,69,Female,Hispanic
+335,2021-06-07,04:18:53,Theft,New York,NY,4127 Broadway,25,Male,Asian
+336,2023-07-06,18:53:00,Arson,Phoenix,AZ,105 Pine St,54,Female,Asian
+337,2024-11-01,18:27:33,Assault,New York,NY,6696 Elm St,62,Other,White
+338,2020-12-29,16:24:01,Theft,Phoenix,AZ,6060 Elm St,85,Female,Other
+339,2024-06-03,22:58:49,Homicide,Dallas,TX,8881 Main St,41,Female,Hispanic
+340,2025-04-16,10:06:00,Robbery,New York,NY,3195 Elm St,42,Other,Hispanic
+341,2022-10-04,01:42:43,Robbery,Chicago,IL,8168 Elm St,27,Female,Hispanic
+342,2024-07-30,15:39:50,Burglary,Dallas,TX,3350 Elm St,64,Non-binary,Black
+343,2020-12-11,12:34:26,Theft,Philadelphia,PA,3974 Elm St,78,Female,Other
+344,2025-06-05,18:38:28,Arson,San Jose,CA,7953 Main St,77,Non-binary,Black
+345,2022-07-21,14:38:50,Burglary,Dallas,TX,2366 Maple Ave,44,Non-binary,Hispanic
+346,2024-05-11,06:59:42,Vandalism,Dallas,TX,1152 Pine St,85,Male,Other
+347,2023-08-29,17:17:41,Fraud,Phoenix,AZ,3983 Maple Ave,75,Male,Other
+348,2025-02-19,03:54:34,Arson,Chicago,IL,3762 Elm St,13,Other,Other
+349,2023-03-31,17:13:37,Domestic Violence,Houston,TX,8937 Main St,83,Non-binary,Other
+350,2025-04-12,20:03:24,Fraud,San Antonio,TX,3322 Main St,79,Male,Black
+351,2022-07-21,03:50:26,Theft,Dallas,TX,4606 Main St,60,Male,Other
+352,2023-06-25,21:31:44,Vandalism,Dallas,TX,281 Pine St,64,Female,Asian
+353,2022-03-15,08:24:47,Domestic Violence,Chicago,IL,5360 Elm St,86,Male,White
+354,2022-07-16,05:12:22,Domestic Violence,Houston,TX,5577 Broadway,26,Male,Black
+355,2023-09-23,20:46:07,Arson,San Jose,CA,7884 Elm St,51,Non-binary,Black
+356,2021-11-23,08:37:35,Drug Offense,San Diego,CA,6725 Pine St,63,Other,Hispanic
+357,2021-06-19,13:13:41,Burglary,Chicago,IL,1027 Elm St,47,Male,Other
+358,2021-06-09,23:34:42,Theft,Dallas,TX,8093 Main St,23,Other,White
+359,2025-07-12,18:48:10,Arson,Philadelphia,PA,8683 Maple Ave,12,Other,Hispanic
+360,2023-12-22,10:55:23,Theft,Philadelphia,PA,259 Maple Ave,64,Male,White
+361,2024-05-25,15:21:50,Robbery,Phoenix,AZ,1531 Maple Ave,61,Male,Other
+362,2025-07-11,22:16:28,Assault,Philadelphia,PA,3876 Oak St,58,Male,White
+363,2024-05-10,04:06:20,Robbery,Phoenix,AZ,8067 Main St,64,Female,Asian
+364,2023-12-22,00:55:42,Burglary,Philadelphia,PA,7902 Pine St,20,Female,White
+365,2024-11-04,12:51:15,Domestic Violence,Chicago,IL,5443 Maple Ave,54,Female,White
+366,2024-09-22,20:53:32,Homicide,Philadelphia,PA,8436 Pine St,78,Non-binary,Black
+367,2023-11-24,08:18:18,Burglary,Dallas,TX,3494 Pine St,89,Non-binary,Hispanic
+368,2021-10-18,20:03:52,Arson,Dallas,TX,7179 Maple Ave,89,Male,Other
+369,2024-03-13,00:01:07,Burglary,San Antonio,TX,3283 Pine St,40,Female,Black
+370,2023-03-11,03:50:00,Burglary,Houston,TX,8216 Elm St,42,Other,Asian
+371,2024-08-24,00:38:43,Burglary,Dallas,TX,9857 Maple Ave,57,Other,Hispanic
+372,2024-09-17,20:43:27,Homicide,San Jose,CA,9172 Pine St,39,Non-binary,Asian
+373,2023-04-19,18:22:20,Burglary,Chicago,IL,7820 Main St,14,Other,Asian
+374,2021-05-02,22:59:02,Domestic Violence,San Jose,CA,6200 Pine St,58,Other,White
+375,2023-11-04,08:49:14,Arson,Phoenix,AZ,329 Broadway,13,Female,White
+376,2022-06-30,12:24:34,Vandalism,San Diego,CA,7978 Pine St,21,Male,Asian
+377,2022-12-09,16:14:14,Assault,New York,NY,8610 Broadway,50,Female,Other
+378,2023-11-09,01:58:04,Vandalism,Chicago,IL,1236 Elm St,34,Non-binary,Asian
+379,2021-01-08,08:27:28,Robbery,San Antonio,TX,2098 Maple Ave,33,Other,White
+380,2024-04-29,21:42:02,Theft,Houston,TX,377 Maple Ave,73,Female,Other
+381,2024-06-30,13:21:41,Fraud,Phoenix,AZ,2301 Oak St,32,Non-binary,Black
+382,2023-12-28,15:27:22,Vandalism,Phoenix,AZ,8733 Elm St,80,Female,Hispanic
+383,2024-12-10,06:11:20,Domestic Violence,Phoenix,AZ,6879 Pine St,63,Other,White
+384,2025-02-24,09:28:09,Domestic Violence,Chicago,IL,3081 Maple Ave,18,Male,Asian
+385,2022-07-22,19:23:43,Domestic Violence,Chicago,IL,9108 Pine St,83,Female,Black
+386,2021-03-17,12:44:24,Fraud,San Diego,CA,7543 Oak St,20,Non-binary,Hispanic
+387,2022-11-25,07:47:47,Theft,San Diego,CA,8353 Broadway,58,Non-binary,Hispanic
+388,2025-01-17,22:56:34,Fraud,Philadelphia,PA,1341 Broadway,35,Non-binary,Other
+389,2021-07-12,00:16:43,Assault,Houston,TX,3257 Oak St,48,Male,White
+390,2024-04-22,08:56:08,Theft,Philadelphia,PA,7016 Maple Ave,49,Other,White
+391,2022-01-30,00:50:36,Assault,San Diego,CA,6668 Maple Ave,73,Female,Hispanic
+392,2020-12-01,06:28:30,Drug Offense,San Antonio,TX,7478 Maple Ave,29,Non-binary,Other
+393,2021-12-05,04:35:21,Domestic Violence,San Diego,CA,795 Pine St,53,Male,Black
+394,2025-01-08,13:59:15,Drug Offense,Houston,TX,5442 Pine St,21,Male,Black
+395,2022-02-26,20:47:30,Fraud,New York,NY,3599 Broadway,75,Female,Black
+396,2020-11-26,14:35:21,Domestic Violence,Philadelphia,PA,2943 Elm St,64,Non-binary,Black
+397,2021-12-18,07:54:38,Robbery,Houston,TX,2564 Main St,35,Male,Asian
+398,2024-01-08,04:41:39,Domestic Violence,Dallas,TX,8972 Oak St,52,Non-binary,White
+399,2024-03-03,15:44:59,Assault,Philadelphia,PA,6800 Main St,62,Other,Hispanic
+400,2023-12-04,01:34:55,Robbery,San Antonio,TX,4136 Oak St,19,Non-binary,White
+401,2022-02-08,13:38:53,Domestic Violence,San Antonio,TX,3064 Broadway,22,Non-binary,Hispanic
+402,2025-03-07,22:16:58,Robbery,New York,NY,4745 Oak St,46,Female,Asian
+403,2021-03-11,22:49:07,Homicide,San Jose,CA,4695 Elm St,22,Male,Hispanic
+404,2022-01-09,15:28:14,Vandalism,San Jose,CA,3256 Pine St,79,Female,Other
+405,2024-10-27,08:18:43,Vandalism,New York,NY,5268 Main St,74,Female,Asian
+406,2020-12-22,00:00:51,Robbery,New York,NY,9006 Maple Ave,89,Non-binary,Black
+407,2022-04-27,11:19:05,Assault,Los Angeles,CA,5742 Oak St,84,Male,Black
+408,2023-02-06,01:42:26,Domestic Violence,Houston,TX,474 Main St,47,Non-binary,Other
+409,2024-09-25,05:53:13,Domestic Violence,San Jose,CA,2406 Maple Ave,50,Female,White
+410,2021-10-13,15:33:33,Burglary,Philadelphia,PA,2638 Pine St,19,Other,Black
+411,2020-12-19,04:41:50,Arson,Los Angeles,CA,9586 Elm St,63,Other,Other
+412,2022-07-05,09:37:07,Homicide,Philadelphia,PA,4853 Broadway,77,Non-binary,Hispanic
+413,2024-02-24,17:55:50,Assault,Dallas,TX,2390 Oak St,15,Female,Black
+414,2021-12-29,00:30:10,Arson,Los Angeles,CA,9040 Pine St,18,Other,Black
+415,2022-10-04,12:31:50,Drug Offense,Houston,TX,9814 Maple Ave,41,Other,Hispanic
+416,2022-11-30,10:45:33,Arson,Dallas,TX,7997 Main St,76,Other,Black
+417,2025-03-28,23:06:19,Burglary,Los Angeles,CA,2313 Maple Ave,70,Other,Black
+418,2021-02-14,07:57:11,Arson,New York,NY,8435 Main St,70,Male,Asian
+419,2021-10-25,20:43:58,Vandalism,New York,NY,8377 Main St,55,Female,Asian
+420,2022-06-16,00:02:44,Vandalism,San Jose,CA,7698 Broadway,46,Other,Black
+421,2024-07-12,11:20:33,Burglary,San Diego,CA,7456 Elm St,33,Non-binary,Black
+422,2022-03-10,10:46:20,Drug Offense,San Antonio,TX,1965 Maple Ave,61,Male,Other
+423,2021-02-05,13:52:38,Robbery,Phoenix,AZ,9085 Pine St,14,Other,Black
+424,2023-02-10,03:41:50,Fraud,Chicago,IL,6822 Pine St,74,Non-binary,White
+425,2023-09-22,23:20:39,Assault,Dallas,TX,1410 Broadway,70,Male,Hispanic
+426,2021-07-10,04:34:26,Fraud,Chicago,IL,5398 Oak St,28,Male,Other
+427,2023-01-18,06:22:49,Homicide,Philadelphia,PA,1529 Maple Ave,28,Other,Other
+428,2022-04-04,18:24:09,Burglary,Philadelphia,PA,3216 Elm St,77,Female,White
+429,2024-09-13,07:20:35,Homicide,Houston,TX,554 Main St,30,Other,Other
+430,2020-12-02,21:59:17,Fraud,Phoenix,AZ,2085 Pine St,30,Other,White
+431,2022-10-26,00:48:41,Arson,Houston,TX,480 Broadway,64,Other,Hispanic
+432,2020-09-26,22:21:42,Homicide,San Antonio,TX,2515 Elm St,55,Male,Asian
+433,2025-05-20,23:43:34,Domestic Violence,San Antonio,TX,7578 Elm St,52,Male,Hispanic
+434,2020-08-10,06:47:44,Fraud,Philadelphia,PA,2126 Oak St,83,Male,Hispanic
+435,2023-08-21,01:55:38,Vandalism,Chicago,IL,7594 Broadway,31,Other,Asian
+436,2021-01-30,17:44:52,Theft,San Diego,CA,19 Maple Ave,70,Non-binary,Other
+437,2025-01-13,04:58:38,Assault,Los Angeles,CA,5881 Oak St,21,Female,Hispanic
+438,2024-04-03,22:18:08,Domestic Violence,Los Angeles,CA,7745 Broadway,21,Female,Hispanic
+439,2020-12-06,21:12:55,Domestic Violence,Los Angeles,CA,9037 Broadway,68,Other,White
+440,2024-11-29,18:41:29,Homicide,Dallas,TX,2328 Main St,13,Male,Hispanic
+441,2024-09-12,05:14:30,Domestic Violence,Chicago,IL,4898 Oak St,82,Female,Other
+442,2023-08-31,03:53:37,Domestic Violence,San Antonio,TX,8544 Oak St,13,Male,Black
+443,2022-12-17,12:23:18,Homicide,Los Angeles,CA,1258 Oak St,73,Female,Black
+444,2021-07-11,09:46:50,Vandalism,Los Angeles,CA,779 Pine St,90,Other,Other
+445,2020-09-17,12:48:25,Fraud,San Jose,CA,5373 Broadway,77,Non-binary,Hispanic
+446,2024-05-09,21:09:21,Domestic Violence,San Jose,CA,4786 Oak St,80,Non-binary,Hispanic
+447,2020-08-01,15:36:57,Vandalism,Los Angeles,CA,5798 Oak St,34,Male,Hispanic
+448,2023-03-26,08:58:30,Robbery,Phoenix,AZ,9651 Main St,82,Other,White
+449,2022-01-01,07:13:08,Theft,Chicago,IL,7099 Pine St,87,Other,Other
+450,2021-08-01,18:24:37,Fraud,Philadelphia,PA,4973 Elm St,90,Female,Other
+451,2023-05-10,10:06:19,Theft,Chicago,IL,6646 Pine St,41,Male,Hispanic
+452,2022-01-22,19:31:10,Assault,Phoenix,AZ,161 Pine St,12,Male,Asian
+453,2024-07-14,00:13:09,Theft,Philadelphia,PA,9221 Maple Ave,77,Non-binary,White
+454,2024-10-24,03:50:44,Robbery,Chicago,IL,6925 Pine St,73,Male,White
+455,2022-11-07,09:45:43,Homicide,Houston,TX,5766 Broadway,72,Other,Asian
+456,2021-03-28,05:15:08,Drug Offense,Houston,TX,6831 Oak St,54,Non-binary,White
+457,2021-07-18,13:34:45,Burglary,Philadelphia,PA,8611 Elm St,20,Non-binary,Asian
+458,2025-06-11,23:54:00,Robbery,Philadelphia,PA,5201 Elm St,12,Female,White
+459,2021-06-07,14:02:56,Homicide,Houston,TX,3614 Pine St,15,Female,Black
+460,2021-03-07,17:49:27,Robbery,San Jose,CA,6946 Main St,47,Other,Asian
+461,2025-06-27,01:47:02,Burglary,San Diego,CA,1595 Oak St,38,Other,White
+462,2022-10-23,21:44:04,Burglary,Phoenix,AZ,8119 Maple Ave,57,Male,Other
+463,2022-03-23,04:21:45,Robbery,San Diego,CA,8420 Oak St,44,Male,Black
+464,2020-08-29,01:24:14,Theft,Houston,TX,1065 Oak St,46,Male,Asian
+465,2024-02-22,12:03:58,Vandalism,Phoenix,AZ,4602 Main St,23,Non-binary,Black
+466,2022-09-22,08:04:51,Burglary,Philadelphia,PA,8033 Maple Ave,85,Male,Other
+467,2024-11-20,14:11:12,Burglary,New York,NY,7945 Main St,24,Non-binary,Other
+468,2022-12-18,10:05:40,Assault,Phoenix,AZ,8802 Maple Ave,25,Other,Hispanic
+469,2022-08-05,21:24:16,Assault,San Diego,CA,4907 Pine St,89,Non-binary,Asian
+470,2021-08-15,22:38:36,Domestic Violence,San Diego,CA,8560 Maple Ave,84,Non-binary,Asian
+471,2020-11-29,01:44:16,Drug Offense,Dallas,TX,202 Broadway,45,Non-binary,Hispanic
+472,2022-03-09,19:36:09,Robbery,Dallas,TX,5922 Broadway,49,Non-binary,Hispanic
+473,2021-06-27,03:04:38,Burglary,New York,NY,5326 Pine St,52,Female,Black
+474,2024-07-21,03:50:01,Drug Offense,San Antonio,TX,47 Elm St,74,Other,Black
+475,2022-06-20,15:55:08,Drug Offense,San Diego,CA,5427 Oak St,30,Male,Other
+476,2020-11-24,08:15:51,Drug Offense,San Antonio,TX,515 Maple Ave,67,Male,Black
+477,2025-06-22,05:08:07,Domestic Violence,Houston,TX,199 Elm St,52,Male,White
+478,2022-09-12,16:21:02,Drug Offense,New York,NY,6777 Main St,18,Female,Other
+479,2020-12-14,20:41:56,Burglary,San Jose,CA,2494 Oak St,47,Male,White
+480,2024-02-21,14:49:35,Vandalism,San Antonio,TX,6344 Elm St,83,Male,Black
+481,2023-02-03,01:55:12,Homicide,Philadelphia,PA,5710 Oak St,22,Non-binary,Other
+482,2024-01-06,10:11:31,Vandalism,Dallas,TX,743 Broadway,51,Other,Asian
+483,2022-10-13,16:52:34,Vandalism,San Antonio,TX,2418 Maple Ave,89,Female,White
+484,2024-11-13,13:34:46,Assault,Houston,TX,2642 Broadway,28,Male,Black
+485,2022-09-01,15:32:33,Burglary,Chicago,IL,6497 Oak St,14,Non-binary,Asian
+486,2021-08-10,06:07:46,Robbery,Chicago,IL,9039 Main St,75,Male,Asian
+487,2022-07-04,02:35:39,Robbery,Los Angeles,CA,1656 Elm St,53,Other,Hispanic
+488,2023-12-11,14:03:18,Vandalism,San Diego,CA,7236 Broadway,86,Non-binary,Black
+489,2023-05-17,06:07:08,Assault,Los Angeles,CA,55 Main St,74,Female,Black
+490,2022-02-13,02:55:57,Robbery,Los Angeles,CA,9320 Elm St,67,Male,Hispanic
+491,2021-02-03,13:38:03,Burglary,Los Angeles,CA,5284 Pine St,80,Male,White
+492,2023-01-15,11:35:14,Domestic Violence,San Antonio,TX,9278 Broadway,59,Non-binary,Black
+493,2023-03-22,00:00:33,Vandalism,New York,NY,9901 Broadway,88,Non-binary,Asian
+494,2024-09-11,23:25:58,Homicide,San Antonio,TX,9426 Broadway,49,Other,Asian
+495,2023-03-28,03:44:55,Robbery,Dallas,TX,5576 Broadway,30,Non-binary,Hispanic
+496,2023-10-20,03:17:54,Assault,San Jose,CA,5842 Broadway,86,Female,Asian
+497,2021-01-20,04:22:39,Vandalism,Chicago,IL,6857 Main St,70,Other,Other
+498,2025-07-01,10:00:50,Arson,San Jose,CA,6126 Elm St,26,Male,Black
+499,2022-01-04,17:16:21,Drug Offense,Dallas,TX,4027 Main St,19,Male,Other
+500,2021-01-13,17:47:35,Fraud,San Antonio,TX,2313 Maple Ave,31,Female,Other
+501,2024-10-30,14:21:42,Fraud,New York,NY,7401 Main St,74,Other,Hispanic
+502,2021-10-05,13:41:45,Domestic Violence,San Jose,CA,6596 Broadway,40,Female,Other
+503,2022-07-13,16:34:56,Assault,Houston,TX,578 Main St,81,Non-binary,Black
+504,2024-05-11,11:17:04,Assault,Chicago,IL,5390 Pine St,74,Male,Hispanic
+505,2023-11-24,17:30:48,Theft,Chicago,IL,5909 Main St,69,Other,Other
+506,2024-10-11,14:56:58,Homicide,Phoenix,AZ,8752 Pine St,89,Non-binary,Hispanic
+507,2022-11-11,12:38:05,Vandalism,Los Angeles,CA,4383 Oak St,79,Other,Other
+508,2021-08-15,02:53:52,Theft,Los Angeles,CA,8601 Pine St,24,Non-binary,Hispanic
+509,2022-12-09,16:22:52,Fraud,Los Angeles,CA,3884 Pine St,81,Non-binary,Black
+510,2020-12-17,19:50:08,Burglary,Houston,TX,3387 Main St,54,Non-binary,White
+511,2024-07-07,11:24:56,Domestic Violence,San Diego,CA,5695 Pine St,87,Male,Asian
+512,2022-07-01,01:12:07,Robbery,Philadelphia,PA,399 Main St,43,Male,Other
+513,2021-04-30,18:09:47,Arson,Dallas,TX,8709 Maple Ave,25,Male,White
+514,2022-09-17,05:43:40,Robbery,San Jose,CA,7583 Pine St,22,Female,Asian
+515,2025-07-07,08:50:39,Vandalism,Phoenix,AZ,1448 Oak St,51,Female,Hispanic
+516,2021-12-17,10:05:42,Homicide,Houston,TX,5118 Broadway,14,Female,Other
+517,2022-01-05,02:38:24,Robbery,Dallas,TX,3824 Maple Ave,69,Female,Asian
+518,2025-07-06,22:15:23,Fraud,Los Angeles,CA,3588 Oak St,82,Female,Asian
+519,2025-06-06,17:31:24,Domestic Violence,Los Angeles,CA,7853 Oak St,34,Male,Asian
+520,2021-10-24,22:46:20,Assault,Phoenix,AZ,6143 Pine St,40,Non-binary,Asian
+521,2024-10-14,12:07:28,Theft,Dallas,TX,6327 Maple Ave,67,Other,Hispanic
+522,2021-12-04,15:54:26,Theft,Los Angeles,CA,4899 Pine St,50,Male,Other
+523,2025-07-11,09:39:20,Vandalism,San Diego,CA,9495 Maple Ave,76,Male,White
+524,2023-11-08,22:07:11,Homicide,Phoenix,AZ,9321 Pine St,23,Male,Hispanic
+525,2022-01-03,01:03:02,Robbery,Chicago,IL,4888 Oak St,56,Male,White
+526,2022-02-19,07:51:04,Burglary,Phoenix,AZ,4056 Elm St,69,Female,Black
+527,2023-10-03,00:19:18,Robbery,Houston,TX,9854 Maple Ave,19,Other,Asian
+528,2021-04-27,17:45:04,Theft,Chicago,IL,9992 Elm St,50,Other,Asian
+529,2022-05-30,19:08:48,Vandalism,San Jose,CA,5884 Maple Ave,34,Male,Hispanic
+530,2023-05-17,19:44:08,Drug Offense,San Diego,CA,2202 Main St,23,Non-binary,Other
+531,2023-09-13,13:17:28,Burglary,Phoenix,AZ,7950 Pine St,77,Male,White
+532,2022-05-20,16:29:38,Assault,San Diego,CA,5137 Maple Ave,40,Other,Hispanic
+533,2020-11-17,21:35:20,Theft,San Diego,CA,8280 Oak St,66,Other,Asian
+534,2020-12-05,11:47:45,Fraud,Phoenix,AZ,5300 Main St,19,Female,Other
+535,2022-03-21,18:14:26,Robbery,Los Angeles,CA,630 Broadway,63,Other,White
+536,2021-09-20,06:39:40,Theft,Phoenix,AZ,7939 Main St,21,Other,White
+537,2020-11-10,02:30:25,Homicide,Philadelphia,PA,5120 Oak St,29,Male,Other
+538,2022-08-29,08:16:18,Homicide,Phoenix,AZ,5582 Elm St,31,Other,Black
+539,2023-06-14,02:52:56,Burglary,Houston,TX,8471 Oak St,61,Male,White
+540,2020-08-30,01:52:07,Robbery,San Jose,CA,5977 Main St,22,Other,Hispanic
+541,2022-01-03,11:06:48,Burglary,New York,NY,7575 Main St,30,Female,Hispanic
+542,2024-07-14,19:03:23,Drug Offense,Philadelphia,PA,5053 Pine St,78,Other,Asian
+543,2025-02-10,15:31:14,Drug Offense,San Jose,CA,5003 Oak St,76,Male,White
+544,2021-09-23,15:54:26,Fraud,New York,NY,1267 Pine St,70,Female,Other
+545,2024-06-04,05:14:24,Theft,San Jose,CA,9746 Elm St,85,Male,Hispanic
+546,2024-03-07,01:36:31,Arson,San Diego,CA,3467 Oak St,85,Other,White
+547,2021-04-27,01:31:58,Vandalism,Chicago,IL,4455 Elm St,52,Male,Other
+548,2021-10-29,10:06:57,Burglary,Phoenix,AZ,8203 Oak St,33,Female,Other
+549,2021-10-25,19:55:40,Burglary,Houston,TX,1380 Oak St,22,Male,Black
+550,2022-12-18,05:08:56,Burglary,Houston,TX,8417 Maple Ave,74,Male,Asian
+551,2024-10-11,09:24:41,Vandalism,New York,NY,9843 Main St,27,Non-binary,Black
+552,2022-03-24,22:03:46,Homicide,Philadelphia,PA,9272 Maple Ave,29,Male,Other
+553,2024-12-19,17:47:50,Domestic Violence,Chicago,IL,5906 Oak St,24,Other,Asian
+554,2024-07-06,00:49:24,Robbery,San Jose,CA,244 Maple Ave,71,Female,Hispanic
+555,2023-02-11,16:36:44,Vandalism,New York,NY,1448 Maple Ave,28,Male,Asian
+556,2021-05-01,01:31:19,Drug Offense,San Jose,CA,2815 Oak St,30,Female,White
+557,2024-08-02,04:36:22,Vandalism,San Diego,CA,1944 Maple Ave,19,Non-binary,Black
+558,2021-12-20,18:41:44,Domestic Violence,San Diego,CA,3820 Pine St,20,Other,Other
+559,2021-02-24,06:08:06,Robbery,San Antonio,TX,242 Elm St,16,Non-binary,Asian
+560,2023-01-24,03:39:11,Theft,Dallas,TX,9362 Main St,47,Male,White
+561,2021-02-04,00:39:35,Burglary,Dallas,TX,3026 Pine St,18,Non-binary,Black
+562,2024-11-04,16:16:07,Theft,San Antonio,TX,9955 Pine St,35,Non-binary,White
+563,2022-10-23,07:43:04,Theft,San Antonio,TX,4785 Main St,61,Other,Asian
+564,2021-08-13,11:44:20,Domestic Violence,San Diego,CA,5721 Maple Ave,62,Male,Hispanic
+565,2025-04-21,18:31:27,Arson,Los Angeles,CA,5479 Maple Ave,43,Other,White
+566,2021-05-11,01:38:28,Theft,New York,NY,5209 Pine St,67,Non-binary,Asian
+567,2021-12-21,00:41:14,Vandalism,Los Angeles,CA,3966 Pine St,49,Non-binary,White
+568,2022-12-31,17:05:43,Homicide,Chicago,IL,8685 Pine St,72,Other,Black
+569,2021-04-24,03:46:51,Burglary,Dallas,TX,3183 Broadway,58,Other,Other
+570,2022-09-26,04:32:24,Vandalism,Houston,TX,6718 Main St,66,Other,Asian
+571,2023-11-07,10:49:47,Burglary,Chicago,IL,7437 Main St,76,Female,Black
+572,2023-02-14,13:17:28,Robbery,Phoenix,AZ,9286 Elm St,72,Non-binary,Asian
+573,2021-03-01,00:33:05,Robbery,San Jose,CA,2535 Elm St,69,Other,Asian
+574,2022-01-24,20:35:40,Homicide,Chicago,IL,1695 Main St,40,Non-binary,Hispanic
+575,2025-07-05,23:14:55,Burglary,Los Angeles,CA,3414 Oak St,44,Female,White
+576,2024-12-12,23:17:22,Domestic Violence,Los Angeles,CA,1502 Pine St,40,Other,Hispanic
+577,2021-08-09,15:27:50,Arson,Houston,TX,842 Pine St,41,Male,Other
+578,2025-05-23,21:42:49,Burglary,Phoenix,AZ,3722 Broadway,46,Other,White
+579,2023-07-09,06:05:33,Arson,Houston,TX,3709 Main St,16,Female,White
+580,2022-08-24,20:54:06,Robbery,Phoenix,AZ,9192 Broadway,90,Other,Asian
+581,2025-05-20,22:47:25,Domestic Violence,Dallas,TX,125 Pine St,68,Other,Other
+582,2020-09-16,15:50:34,Drug Offense,San Diego,CA,872 Oak St,78,Male,Other
+583,2025-03-06,09:23:20,Domestic Violence,Dallas,TX,3279 Pine St,84,Male,Hispanic
+584,2020-10-27,11:54:15,Theft,Dallas,TX,7480 Broadway,84,Female,Asian
+585,2022-09-16,08:07:28,Domestic Violence,Los Angeles,CA,4511 Elm St,56,Other,Hispanic
+586,2024-11-18,04:37:05,Domestic Violence,New York,NY,2090 Oak St,15,Non-binary,Asian
+587,2022-11-24,05:28:41,Arson,San Jose,CA,2555 Maple Ave,80,Male,Other
+588,2022-01-28,02:54:33,Homicide,Houston,TX,5751 Elm St,32,Female,Black
+589,2021-08-02,22:11:29,Arson,Dallas,TX,417 Elm St,84,Non-binary,Other
+590,2024-12-11,22:27:43,Domestic Violence,Los Angeles,CA,8265 Main St,13,Male,Other
+591,2024-03-01,14:14:41,Vandalism,Phoenix,AZ,1625 Broadway,30,Female,Other
+592,2024-07-20,10:56:34,Arson,New York,NY,906 Broadway,70,Male,White
+593,2023-05-03,09:05:47,Assault,New York,NY,9433 Pine St,68,Non-binary,Other
+594,2021-12-07,00:41:28,Drug Offense,Philadelphia,PA,8986 Oak St,56,Other,Black
+595,2021-01-03,02:06:48,Robbery,New York,NY,2955 Pine St,61,Non-binary,Asian
+596,2020-10-16,15:25:44,Theft,San Antonio,TX,6494 Maple Ave,63,Other,White
+597,2024-08-08,01:27:05,Assault,Los Angeles,CA,683 Oak St,87,Non-binary,Asian
+598,2021-12-04,13:03:38,Theft,San Jose,CA,3824 Maple Ave,68,Other,Asian
+599,2022-01-16,02:37:38,Vandalism,New York,NY,667 Elm St,19,Male,White
+600,2021-09-02,03:48:08,Burglary,Los Angeles,CA,6572 Broadway,85,Male,White
+601,2020-08-18,09:02:10,Assault,New York,NY,5042 Maple Ave,14,Female,Asian
+602,2023-06-06,20:14:47,Domestic Violence,New York,NY,7305 Broadway,26,Female,Asian
+603,2023-06-09,22:44:56,Assault,Philadelphia,PA,7205 Pine St,66,Non-binary,Hispanic
+604,2024-10-04,10:58:44,Homicide,New York,NY,1339 Elm St,16,Male,Other
+605,2021-09-04,09:35:56,Drug Offense,Dallas,TX,1098 Broadway,81,Male,Asian
+606,2022-08-22,12:40:41,Burglary,San Jose,CA,8010 Pine St,62,Male,Hispanic
+607,2021-09-25,02:12:15,Robbery,Dallas,TX,6626 Elm St,18,Non-binary,Black
+608,2020-12-19,15:41:59,Fraud,New York,NY,8160 Main St,30,Female,Hispanic
+609,2021-04-29,23:29:22,Domestic Violence,Phoenix,AZ,5737 Main St,67,Non-binary,White
+610,2023-03-21,22:43:25,Domestic Violence,Los Angeles,CA,7966 Oak St,74,Female,Black
+611,2023-02-07,04:50:14,Domestic Violence,San Diego,CA,2155 Main St,54,Female,Other
+612,2024-08-19,19:16:36,Burglary,Philadelphia,PA,7702 Maple Ave,17,Other,Other
+613,2022-01-27,20:36:33,Burglary,Houston,TX,6459 Maple Ave,83,Male,Asian
+614,2024-05-25,08:50:47,Arson,San Antonio,TX,8655 Maple Ave,34,Non-binary,White
+615,2020-11-21,05:55:37,Homicide,Houston,TX,8787 Main St,57,Non-binary,Asian
+616,2022-06-12,19:27:35,Fraud,San Jose,CA,1309 Pine St,61,Male,Other
+617,2022-11-17,23:18:08,Assault,Houston,TX,3134 Broadway,77,Female,White
+618,2021-03-22,15:21:10,Vandalism,New York,NY,1869 Broadway,44,Female,Black
+619,2021-10-28,18:16:37,Robbery,New York,NY,2594 Broadway,29,Other,Black
+620,2023-07-06,16:52:17,Burglary,San Jose,CA,4345 Broadway,18,Non-binary,Other
+621,2023-06-30,21:34:37,Burglary,Phoenix,AZ,1667 Oak St,18,Other,White
+622,2022-12-10,08:14:12,Vandalism,New York,NY,6046 Main St,16,Female,Hispanic
+623,2023-09-04,09:25:28,Domestic Violence,Los Angeles,CA,1078 Broadway,28,Non-binary,Hispanic
+624,2025-06-23,01:36:09,Assault,San Jose,CA,7158 Maple Ave,36,Non-binary,Asian
+625,2025-07-17,10:03:41,Drug Offense,San Diego,CA,643 Elm St,79,Male,Asian
+626,2025-02-18,20:11:23,Homicide,Phoenix,AZ,7806 Maple Ave,48,Female,Black
+627,2022-05-25,07:23:11,Burglary,Houston,TX,682 Main St,44,Other,Asian
+628,2023-12-08,11:19:20,Drug Offense,San Jose,CA,6601 Pine St,52,Other,Black
+629,2024-03-26,01:32:21,Robbery,Houston,TX,5454 Main St,81,Other,Asian
+630,2020-08-10,09:47:55,Homicide,Phoenix,AZ,464 Oak St,90,Other,Asian
+631,2023-06-21,09:46:59,Drug Offense,Phoenix,AZ,1074 Broadway,54,Other,Asian
+632,2024-08-19,12:42:41,Fraud,Philadelphia,PA,8148 Maple Ave,63,Male,Asian
+633,2025-01-04,19:37:08,Theft,New York,NY,8096 Elm St,35,Male,Other
+634,2024-12-02,16:40:28,Homicide,New York,NY,3442 Elm St,33,Female,Asian
+635,2022-04-14,03:20:01,Drug Offense,San Jose,CA,3209 Oak St,19,Female,Asian
+636,2023-06-03,06:08:48,Homicide,Los Angeles,CA,682 Broadway,59,Female,Asian
+637,2024-12-16,15:57:13,Burglary,Phoenix,AZ,6755 Oak St,25,Female,Other
+638,2025-04-04,14:12:32,Assault,Los Angeles,CA,2914 Elm St,86,Other,Other
+639,2021-08-23,18:33:20,Assault,San Diego,CA,9472 Elm St,51,Male,Other
+640,2022-04-03,15:39:08,Fraud,Chicago,IL,391 Pine St,58,Female,White
+641,2024-04-22,21:58:27,Fraud,Philadelphia,PA,8151 Maple Ave,83,Other,Black
+642,2022-03-01,07:31:11,Homicide,Houston,TX,666 Elm St,49,Non-binary,Asian
+643,2024-07-15,16:54:59,Robbery,Houston,TX,4281 Oak St,38,Female,White
+644,2025-04-01,02:58:40,Theft,San Antonio,TX,8741 Maple Ave,15,Male,Other
+645,2022-11-28,18:44:41,Arson,San Antonio,TX,3276 Main St,30,Female,Hispanic
+646,2025-01-11,04:02:43,Vandalism,San Diego,CA,3137 Maple Ave,90,Other,White
+647,2023-08-06,12:50:25,Drug Offense,Dallas,TX,6915 Broadway,18,Female,Hispanic
+648,2022-01-31,01:47:26,Assault,New York,NY,4060 Main St,89,Non-binary,Black
+649,2021-12-24,10:50:54,Domestic Violence,San Antonio,TX,1437 Broadway,64,Other,Black
+650,2022-04-25,00:48:35,Assault,San Jose,CA,1292 Maple Ave,42,Other,White
+651,2020-08-04,21:52:44,Burglary,San Diego,CA,7402 Broadway,60,Non-binary,Hispanic
+652,2025-03-19,13:57:56,Fraud,Houston,TX,5530 Broadway,53,Other,Asian
+653,2024-10-11,23:08:50,Fraud,Philadelphia,PA,8507 Main St,19,Non-binary,Hispanic
+654,2022-08-04,07:39:48,Vandalism,Chicago,IL,5818 Main St,86,Non-binary,Hispanic
+655,2020-11-18,20:12:54,Domestic Violence,New York,NY,4483 Pine St,68,Male,Asian
+656,2020-12-29,12:00:42,Assault,New York,NY,4298 Elm St,40,Male,Hispanic
+657,2022-09-18,17:52:52,Domestic Violence,San Jose,CA,5167 Elm St,76,Male,Hispanic
+658,2022-09-03,03:34:24,Robbery,New York,NY,100 Oak St,32,Male,Hispanic
+659,2022-10-09,22:18:32,Assault,Phoenix,AZ,9812 Main St,66,Non-binary,Hispanic
+660,2022-07-08,20:34:14,Assault,San Diego,CA,805 Main St,67,Other,White
+661,2020-08-08,15:49:18,Homicide,San Jose,CA,4959 Pine St,33,Other,Black
+662,2021-07-20,13:38:16,Drug Offense,Dallas,TX,2900 Broadway,16,Female,White
+663,2024-03-18,05:12:14,Arson,New York,NY,675 Main St,57,Male,Asian
+664,2022-10-25,18:51:33,Domestic Violence,San Jose,CA,224 Main St,59,Male,Other
+665,2022-11-16,09:11:36,Burglary,Dallas,TX,1308 Maple Ave,70,Male,Hispanic
+666,2022-01-19,09:23:12,Vandalism,San Jose,CA,5673 Pine St,69,Non-binary,White
+667,2023-01-04,07:39:11,Homicide,Chicago,IL,2907 Oak St,56,Female,White
+668,2025-05-01,15:31:39,Assault,San Diego,CA,2642 Pine St,79,Other,Asian
+669,2023-10-15,19:06:02,Assault,Houston,TX,149 Maple Ave,22,Non-binary,Black
+670,2022-11-12,02:07:47,Vandalism,Houston,TX,9191 Elm St,53,Non-binary,White
+671,2024-12-24,11:35:19,Drug Offense,Philadelphia,PA,568 Main St,34,Female,White
+672,2021-09-06,13:46:13,Homicide,Chicago,IL,2654 Pine St,54,Male,Black
+673,2021-05-13,21:55:35,Theft,San Jose,CA,5471 Oak St,12,Male,Asian
+674,2021-09-05,14:21:59,Drug Offense,Chicago,IL,2233 Broadway,68,Female,Other
+675,2025-03-13,05:48:13,Arson,Houston,TX,9166 Pine St,29,Male,White
+676,2022-06-19,18:32:46,Vandalism,Philadelphia,PA,7825 Pine St,85,Non-binary,Other
+677,2021-05-28,20:54:51,Fraud,San Antonio,TX,5533 Elm St,61,Male,Other
+678,2022-04-06,04:52:36,Assault,Houston,TX,5542 Main St,16,Other,Black
+679,2024-09-02,08:33:41,Domestic Violence,San Diego,CA,429 Main St,46,Non-binary,Hispanic
+680,2023-12-08,07:04:46,Homicide,Los Angeles,CA,7610 Maple Ave,67,Male,White
+681,2023-12-04,13:49:35,Homicide,Houston,TX,3974 Oak St,37,Female,White
+682,2020-12-14,08:42:11,Arson,San Antonio,TX,570 Elm St,71,Male,Hispanic
+683,2022-07-03,13:34:52,Robbery,San Antonio,TX,8922 Pine St,16,Female,Hispanic
+684,2025-04-25,03:11:05,Vandalism,Phoenix,AZ,7385 Pine St,72,Male,Asian
+685,2024-12-23,04:06:01,Arson,Houston,TX,7270 Broadway,39,Female,White
+686,2022-12-08,03:36:51,Assault,San Antonio,TX,3017 Pine St,40,Non-binary,Asian
+687,2023-12-16,22:38:28,Arson,Phoenix,AZ,2828 Elm St,84,Male,Other
+688,2021-04-02,07:16:20,Arson,Los Angeles,CA,4409 Maple Ave,74,Other,Asian
+689,2022-07-02,18:32:26,Burglary,San Jose,CA,6556 Broadway,63,Other,White
+690,2022-12-08,17:35:42,Robbery,San Jose,CA,2804 Oak St,30,Female,Asian
+691,2021-04-28,09:05:35,Domestic Violence,San Antonio,TX,9233 Main St,15,Female,Black
+692,2024-11-19,09:06:23,Assault,Los Angeles,CA,5496 Main St,18,Non-binary,Asian
+693,2020-12-10,01:00:39,Fraud,Houston,TX,7516 Broadway,89,Female,Hispanic
+694,2022-01-06,05:14:19,Fraud,New York,NY,2431 Maple Ave,75,Male,White
+695,2023-09-25,05:28:48,Drug Offense,San Antonio,TX,8988 Maple Ave,61,Other,White
+696,2024-01-04,18:27:47,Arson,San Diego,CA,3753 Broadway,55,Non-binary,Hispanic
+697,2024-10-08,06:18:58,Assault,Chicago,IL,6744 Main St,76,Female,Asian
+698,2021-02-14,05:05:14,Domestic Violence,San Antonio,TX,6490 Broadway,13,Other,Black
+699,2024-08-06,12:17:32,Vandalism,San Antonio,TX,5457 Pine St,17,Other,Other
+700,2023-09-18,02:52:00,Assault,Los Angeles,CA,9362 Maple Ave,15,Other,Other
+701,2022-09-02,15:34:21,Domestic Violence,Houston,TX,1268 Broadway,44,Non-binary,Asian
+702,2021-10-29,19:53:01,Fraud,Los Angeles,CA,7809 Oak St,18,Other,Hispanic
+703,2021-05-23,00:39:13,Robbery,San Diego,CA,4341 Elm St,50,Non-binary,Asian
+704,2024-05-22,17:57:04,Fraud,Philadelphia,PA,299 Main St,80,Other,Hispanic
+705,2021-05-17,17:29:00,Theft,San Antonio,TX,7150 Pine St,19,Female,Asian
+706,2021-03-12,17:49:40,Homicide,Dallas,TX,288 Main St,34,Other,White
+707,2021-12-15,02:19:51,Robbery,San Diego,CA,2697 Main St,78,Female,Other
+708,2025-06-15,03:56:30,Burglary,San Jose,CA,2580 Main St,85,Non-binary,Asian
+709,2024-07-27,04:43:47,Domestic Violence,Phoenix,AZ,241 Pine St,49,Male,Other
+710,2021-10-13,23:32:29,Homicide,New York,NY,8034 Maple Ave,27,Female,Hispanic
+711,2020-09-23,03:08:29,Fraud,Houston,TX,4735 Main St,76,Female,Hispanic
+712,2025-06-26,16:55:03,Robbery,San Antonio,TX,3913 Main St,78,Female,Hispanic
+713,2025-04-12,15:34:58,Robbery,Houston,TX,178 Main St,90,Female,White
+714,2024-07-20,14:18:23,Robbery,San Diego,CA,5619 Oak St,27,Male,White
+715,2023-04-21,12:35:17,Burglary,Dallas,TX,2174 Oak St,43,Female,Other
+716,2024-05-26,07:46:27,Domestic Violence,Los Angeles,CA,3113 Oak St,85,Male,White
+717,2022-03-07,18:34:17,Burglary,Dallas,TX,6988 Maple Ave,22,Other,Hispanic
+718,2022-07-20,15:41:10,Homicide,Chicago,IL,7804 Maple Ave,46,Other,Other
+719,2022-04-24,05:08:00,Domestic Violence,San Jose,CA,344 Main St,76,Non-binary,Hispanic
+720,2021-07-19,15:50:31,Domestic Violence,San Diego,CA,2221 Elm St,73,Male,Black
+721,2024-08-03,04:00:48,Burglary,Chicago,IL,2519 Maple Ave,52,Non-binary,White
+722,2024-02-06,22:22:33,Theft,New York,NY,3323 Elm St,40,Non-binary,Asian
+723,2023-06-08,12:31:12,Assault,San Diego,CA,6466 Pine St,58,Other,Other
+724,2024-01-14,22:20:42,Arson,Phoenix,AZ,131 Oak St,90,Female,Black
+725,2023-11-27,23:55:26,Theft,San Antonio,TX,7085 Pine St,49,Male,Asian
+726,2020-08-01,12:57:14,Domestic Violence,San Diego,CA,6221 Elm St,54,Non-binary,Hispanic
+727,2024-04-08,21:39:23,Arson,Philadelphia,PA,2293 Pine St,87,Male,Black
+728,2025-03-10,19:50:17,Fraud,Dallas,TX,5825 Maple Ave,58,Other,Asian
+729,2023-11-08,09:35:45,Drug Offense,Philadelphia,PA,8103 Oak St,75,Male,White
+730,2024-02-03,12:50:52,Homicide,Los Angeles,CA,9942 Main St,54,Male,Other
+731,2022-12-07,20:28:08,Arson,San Jose,CA,4101 Elm St,73,Female,Other
+732,2024-05-21,16:16:08,Domestic Violence,Houston,TX,7297 Oak St,19,Non-binary,Other
+733,2024-03-22,08:30:51,Vandalism,San Diego,CA,3987 Oak St,77,Non-binary,Hispanic
+734,2023-07-14,15:44:01,Homicide,Philadelphia,PA,4891 Oak St,68,Non-binary,Black
+735,2025-06-21,09:11:08,Drug Offense,Los Angeles,CA,736 Maple Ave,21,Other,Asian
+736,2020-09-23,15:27:39,Homicide,Philadelphia,PA,2886 Pine St,69,Male,Hispanic
+737,2021-10-28,20:55:27,Arson,Dallas,TX,1957 Oak St,79,Non-binary,Other
+738,2021-09-14,22:19:05,Robbery,Houston,TX,9241 Elm St,47,Other,Other
+739,2025-05-07,13:21:28,Homicide,Houston,TX,3414 Elm St,19,Female,Asian
+740,2021-07-20,06:37:08,Burglary,San Jose,CA,6788 Elm St,29,Non-binary,Black
+741,2025-06-15,21:21:42,Assault,San Jose,CA,6784 Oak St,81,Female,White
+742,2021-05-22,18:46:19,Drug Offense,New York,NY,6286 Broadway,33,Female,Black
+743,2022-06-14,16:45:58,Robbery,Phoenix,AZ,9739 Broadway,81,Male,Black
+744,2025-03-20,23:50:00,Vandalism,San Antonio,TX,4932 Maple Ave,87,Male,Black
+745,2021-08-17,22:15:54,Burglary,San Jose,CA,5907 Elm St,50,Other,White
+746,2025-01-09,23:09:04,Robbery,San Jose,CA,7090 Pine St,41,Other,Black
+747,2022-05-23,03:48:33,Vandalism,Los Angeles,CA,6179 Broadway,88,Female,Asian
+748,2022-02-08,06:55:30,Domestic Violence,Phoenix,AZ,7974 Broadway,51,Other,Black
+749,2020-08-18,22:33:48,Robbery,San Antonio,TX,1132 Elm St,43,Other,White
+750,2023-11-19,20:38:51,Drug Offense,Chicago,IL,8120 Broadway,88,Female,Black
+751,2024-05-02,04:21:38,Domestic Violence,Phoenix,AZ,9977 Maple Ave,21,Male,Other
+752,2022-12-20,18:14:31,Domestic Violence,San Antonio,TX,4227 Main St,90,Male,Asian
+753,2020-08-24,08:59:34,Arson,Houston,TX,8998 Oak St,72,Other,White
+754,2024-01-13,15:06:30,Burglary,Dallas,TX,3488 Main St,76,Male,Asian
+755,2024-01-07,11:49:07,Burglary,New York,NY,4972 Broadway,81,Male,Asian
+756,2025-05-22,09:52:11,Homicide,Chicago,IL,8616 Broadway,77,Female,Asian
+757,2020-08-15,02:14:41,Assault,Los Angeles,CA,2992 Maple Ave,87,Female,Hispanic
+758,2024-11-02,12:24:45,Drug Offense,Los Angeles,CA,4042 Broadway,55,Other,Asian
+759,2025-07-11,09:07:41,Drug Offense,San Antonio,TX,5135 Pine St,12,Male,Other
+760,2022-04-15,21:05:26,Assault,Philadelphia,PA,461 Main St,81,Female,White
+761,2021-05-18,16:57:41,Homicide,Los Angeles,CA,6079 Broadway,17,Male,White
+762,2023-07-09,12:04:07,Burglary,Los Angeles,CA,42 Broadway,84,Non-binary,Black
+763,2023-12-05,09:18:32,Assault,San Antonio,TX,7194 Main St,31,Male,White
+764,2023-06-25,00:23:58,Assault,San Jose,CA,1800 Oak St,60,Other,White
+765,2022-08-06,14:56:03,Assault,Houston,TX,9789 Elm St,32,Non-binary,Other
+766,2025-04-15,05:54:06,Fraud,Chicago,IL,8104 Elm St,86,Other,White
+767,2022-03-23,19:38:47,Drug Offense,Philadelphia,PA,8359 Maple Ave,59,Non-binary,White
+768,2021-01-28,10:16:30,Theft,Chicago,IL,8521 Maple Ave,67,Other,Black
+769,2024-06-22,16:53:50,Drug Offense,Phoenix,AZ,8585 Broadway,74,Male,Asian
+770,2024-10-27,15:27:30,Theft,Phoenix,AZ,5509 Maple Ave,70,Female,Hispanic
+771,2025-03-07,21:20:59,Fraud,Philadelphia,PA,6382 Broadway,71,Male,Hispanic
+772,2021-07-19,11:21:51,Theft,San Antonio,TX,1799 Pine St,57,Male,Hispanic
+773,2021-06-09,13:16:18,Arson,Houston,TX,5613 Pine St,38,Female,Other
+774,2025-07-09,05:06:46,Robbery,New York,NY,2790 Main St,71,Female,Other
+775,2022-09-24,01:47:50,Arson,Philadelphia,PA,9341 Broadway,43,Other,Other
+776,2024-02-25,05:39:01,Burglary,San Antonio,TX,9944 Pine St,35,Other,Asian
+777,2022-04-05,00:01:34,Homicide,Dallas,TX,3092 Pine St,81,Other,Asian
+778,2021-11-16,09:43:11,Domestic Violence,San Diego,CA,8475 Elm St,30,Other,Asian
+779,2023-06-09,01:04:11,Drug Offense,San Antonio,TX,9633 Oak St,51,Other,Asian
+780,2023-09-02,23:16:41,Burglary,New York,NY,771 Elm St,47,Female,Hispanic
+781,2024-12-20,13:17:29,Robbery,Houston,TX,2039 Pine St,26,Other,Asian
+782,2022-11-07,12:13:43,Burglary,New York,NY,147 Oak St,68,Other,Other
+783,2025-02-03,11:00:42,Theft,San Antonio,TX,3270 Oak St,50,Non-binary,White
+784,2021-09-08,10:58:43,Drug Offense,Philadelphia,PA,3711 Maple Ave,57,Male,Asian
+785,2021-09-18,00:37:07,Domestic Violence,San Jose,CA,9202 Broadway,36,Male,White
+786,2022-03-20,23:11:53,Theft,Los Angeles,CA,9016 Oak St,41,Other,White
+787,2020-10-09,17:19:11,Robbery,Phoenix,AZ,9646 Elm St,38,Other,Other
+788,2022-12-07,21:45:33,Homicide,San Antonio,TX,8523 Maple Ave,89,Non-binary,Other
+789,2020-11-05,19:25:34,Arson,Los Angeles,CA,8019 Pine St,14,Non-binary,Hispanic
+790,2025-03-05,18:01:36,Domestic Violence,Chicago,IL,6916 Oak St,43,Female,Hispanic
+791,2023-11-22,11:53:13,Burglary,Dallas,TX,9903 Main St,80,Other,Other
+792,2024-09-18,06:21:04,Burglary,New York,NY,2005 Oak St,81,Female,Other
+793,2022-09-12,17:09:44,Arson,Houston,TX,1084 Main St,46,Other,White
+794,2021-04-19,15:01:24,Fraud,Los Angeles,CA,8565 Oak St,61,Female,Asian
+795,2021-01-09,08:31:27,Fraud,San Jose,CA,1731 Maple Ave,66,Non-binary,White
+796,2022-07-21,17:17:14,Vandalism,Philadelphia,PA,48 Main St,70,Male,Black
+797,2024-02-23,03:09:36,Drug Offense,Los Angeles,CA,3609 Broadway,59,Other,Hispanic
+798,2023-06-14,01:07:24,Fraud,Houston,TX,1635 Main St,28,Male,Black
+799,2021-09-24,21:03:46,Burglary,Chicago,IL,1736 Oak St,68,Female,Other
+800,2021-02-07,16:53:12,Arson,Houston,TX,6393 Pine St,90,Other,Asian
+801,2023-04-27,23:35:57,Drug Offense,Dallas,TX,2633 Pine St,83,Male,Other
+802,2024-08-29,05:13:46,Robbery,Houston,TX,1554 Broadway,80,Other,White
+803,2024-10-18,21:13:47,Arson,Phoenix,AZ,8744 Pine St,73,Non-binary,Other
+804,2023-07-10,13:34:51,Robbery,Chicago,IL,656 Oak St,85,Male,Other
+805,2020-10-02,09:52:37,Robbery,San Diego,CA,4559 Main St,66,Male,Black
+806,2023-08-18,21:49:21,Homicide,Houston,TX,6887 Elm St,56,Non-binary,White
+807,2023-03-19,14:48:01,Robbery,Houston,TX,3430 Oak St,78,Non-binary,Black
+808,2023-12-06,17:19:32,Assault,San Antonio,TX,9000 Broadway,53,Other,Other
+809,2022-11-09,00:10:43,Robbery,Houston,TX,2887 Broadway,37,Non-binary,Other
+810,2021-09-17,09:07:01,Arson,San Antonio,TX,7591 Pine St,76,Male,Asian
+811,2021-06-03,10:14:36,Assault,Chicago,IL,9635 Oak St,30,Male,Hispanic
+812,2024-05-19,03:28:13,Arson,San Jose,CA,3721 Maple Ave,27,Male,Asian
+813,2024-10-29,09:36:46,Burglary,San Jose,CA,2964 Broadway,14,Female,White
+814,2020-10-18,12:36:27,Robbery,Dallas,TX,9371 Broadway,34,Male,Asian
+815,2022-08-15,19:26:20,Drug Offense,Houston,TX,5811 Pine St,57,Male,Asian
+816,2023-01-20,07:12:12,Fraud,San Diego,CA,9284 Oak St,51,Other,Black
+817,2025-06-22,12:41:47,Burglary,Philadelphia,PA,1798 Main St,57,Non-binary,Hispanic
+818,2024-12-13,09:22:43,Theft,San Jose,CA,450 Maple Ave,22,Non-binary,Asian
+819,2023-10-24,21:59:29,Homicide,Dallas,TX,29 Maple Ave,38,Female,Hispanic
+820,2020-09-12,05:15:21,Robbery,Philadelphia,PA,6984 Pine St,31,Female,Black
+821,2020-12-06,16:31:08,Vandalism,Chicago,IL,6745 Maple Ave,60,Non-binary,Asian
+822,2025-04-01,20:44:07,Homicide,Phoenix,AZ,3293 Oak St,43,Female,Hispanic
+823,2025-04-24,23:50:49,Assault,San Jose,CA,7437 Main St,80,Other,Other
+824,2020-09-23,22:08:19,Burglary,San Diego,CA,2172 Broadway,20,Other,Asian
+825,2022-10-26,07:26:10,Fraud,Chicago,IL,4105 Elm St,63,Male,Other
+826,2023-11-28,18:38:07,Arson,San Jose,CA,7923 Broadway,89,Female,White
+827,2025-06-21,03:28:54,Fraud,Philadelphia,PA,8975 Maple Ave,35,Male,Other
+828,2024-01-12,01:59:47,Theft,Phoenix,AZ,6284 Pine St,79,Female,Other
+829,2023-07-01,10:27:01,Arson,New York,NY,3389 Broadway,63,Other,Other
+830,2020-12-25,23:29:27,Domestic Violence,San Antonio,TX,6845 Maple Ave,52,Non-binary,White
+831,2022-03-24,19:01:18,Theft,Phoenix,AZ,4334 Main St,39,Female,White
+832,2024-08-14,16:48:33,Fraud,San Diego,CA,390 Pine St,35,Female,Hispanic
+833,2021-12-25,10:21:15,Robbery,Houston,TX,7680 Main St,88,Female,Other
+834,2025-01-14,18:41:08,Homicide,Houston,TX,6011 Broadway,90,Non-binary,Asian
+835,2022-12-18,17:05:31,Vandalism,Philadelphia,PA,6020 Elm St,23,Female,White
+836,2022-07-12,14:18:51,Fraud,Philadelphia,PA,357 Pine St,51,Male,Black
+837,2022-04-25,13:09:19,Domestic Violence,Phoenix,AZ,7344 Broadway,31,Other,Asian
+838,2023-05-08,22:29:35,Homicide,Chicago,IL,2387 Pine St,59,Non-binary,White
+839,2024-08-28,05:24:42,Vandalism,Philadelphia,PA,7926 Elm St,56,Female,White
+840,2025-02-19,22:26:27,Assault,Philadelphia,PA,6599 Main St,22,Female,Black
+841,2021-02-19,17:49:39,Fraud,Houston,TX,421 Oak St,51,Female,Other
+842,2022-01-02,19:16:57,Domestic Violence,Phoenix,AZ,823 Broadway,36,Non-binary,Asian
+843,2020-10-13,02:49:54,Homicide,Dallas,TX,3825 Broadway,62,Non-binary,Hispanic
+844,2021-07-25,17:07:24,Drug Offense,San Jose,CA,8688 Broadway,29,Non-binary,Hispanic
+845,2024-10-02,12:49:59,Fraud,Chicago,IL,8718 Broadway,74,Female,Black
+846,2021-03-18,17:58:33,Domestic Violence,Dallas,TX,2959 Elm St,86,Non-binary,White
+847,2023-02-04,19:14:34,Vandalism,Los Angeles,CA,3470 Main St,55,Non-binary,Asian
+848,2022-05-31,17:35:07,Assault,Chicago,IL,6355 Oak St,79,Female,Other
+849,2023-12-10,03:45:46,Fraud,Chicago,IL,1940 Elm St,20,Male,White
+850,2024-04-16,18:29:49,Arson,Phoenix,AZ,2086 Main St,44,Male,Hispanic
+851,2021-07-11,16:32:04,Fraud,Phoenix,AZ,2895 Maple Ave,37,Female,Other
+852,2025-01-15,15:19:09,Arson,San Antonio,TX,9489 Oak St,45,Male,Other
+853,2024-11-06,06:48:22,Drug Offense,Houston,TX,971 Main St,46,Female,White
+854,2025-03-06,13:20:05,Theft,Chicago,IL,28 Pine St,51,Male,Asian
+855,2021-06-29,10:08:16,Burglary,San Diego,CA,1738 Pine St,85,Other,Black
+856,2024-05-27,05:57:47,Assault,New York,NY,8815 Pine St,50,Female,Other
+857,2023-05-18,09:29:54,Homicide,Phoenix,AZ,4533 Oak St,62,Non-binary,Black
+858,2023-05-03,01:45:19,Drug Offense,Philadelphia,PA,203 Oak St,57,Non-binary,Other
+859,2023-03-19,01:18:40,Theft,New York,NY,3449 Elm St,60,Non-binary,White
+860,2024-08-15,18:50:16,Vandalism,New York,NY,2340 Pine St,23,Female,White
+861,2024-12-02,05:26:09,Robbery,Los Angeles,CA,5938 Main St,68,Other,Hispanic
+862,2023-10-14,02:12:26,Domestic Violence,New York,NY,8621 Maple Ave,73,Non-binary,White
+863,2024-04-23,20:19:46,Arson,Philadelphia,PA,3004 Main St,77,Female,Black
+864,2020-09-24,09:17:25,Fraud,Phoenix,AZ,4970 Broadway,31,Male,Hispanic
+865,2022-11-18,19:40:04,Drug Offense,Dallas,TX,4699 Broadway,50,Female,Asian
+866,2022-09-07,10:40:57,Arson,New York,NY,1537 Main St,35,Female,Asian
+867,2021-06-14,14:13:15,Fraud,Los Angeles,CA,986 Maple Ave,64,Other,Other
+868,2025-07-16,12:54:05,Theft,Houston,TX,2979 Pine St,16,Male,Black
+869,2020-11-08,02:23:39,Homicide,San Diego,CA,8104 Maple Ave,40,Non-binary,Hispanic
+870,2021-03-04,05:16:42,Arson,San Antonio,TX,4293 Oak St,79,Male,White
+871,2022-10-31,21:18:11,Theft,Houston,TX,8014 Elm St,45,Male,White
+872,2020-09-02,09:03:12,Homicide,New York,NY,9266 Elm St,14,Male,Other
+873,2022-05-27,04:37:24,Theft,Philadelphia,PA,6124 Broadway,52,Female,Other
+874,2022-02-05,10:32:03,Domestic Violence,New York,NY,1889 Pine St,19,Non-binary,Black
+875,2024-12-16,09:20:40,Domestic Violence,Phoenix,AZ,6634 Broadway,20,Female,Hispanic
+876,2021-11-10,21:00:29,Arson,Philadelphia,PA,3235 Broadway,21,Other,Other
+877,2024-08-18,09:02:47,Robbery,San Antonio,TX,7091 Broadway,58,Non-binary,White
+878,2023-07-09,17:27:40,Vandalism,Los Angeles,CA,3010 Main St,64,Female,Black
+879,2020-08-05,07:13:07,Domestic Violence,San Jose,CA,5145 Broadway,56,Other,Black
+880,2020-11-04,20:55:10,Homicide,Phoenix,AZ,2654 Broadway,27,Non-binary,Asian
+881,2024-10-14,10:07:33,Domestic Violence,Chicago,IL,7473 Pine St,44,Female,White
+882,2022-02-28,02:32:16,Vandalism,Philadelphia,PA,4758 Pine St,69,Female,Other
+883,2025-04-19,23:21:25,Robbery,San Antonio,TX,86 Broadway,75,Non-binary,Black
+884,2024-12-21,08:21:29,Fraud,Philadelphia,PA,7247 Main St,29,Female,Black
+885,2025-01-28,09:00:53,Assault,San Antonio,TX,6362 Maple Ave,57,Male,Hispanic
+886,2022-01-02,20:01:27,Drug Offense,Phoenix,AZ,3614 Broadway,62,Other,Other
+887,2020-11-29,17:54:06,Domestic Violence,Chicago,IL,2628 Main St,39,Female,White
+888,2025-05-31,21:12:27,Theft,Dallas,TX,1329 Pine St,87,Non-binary,White
+889,2023-03-25,01:44:06,Fraud,San Antonio,TX,5150 Maple Ave,52,Female,Asian
+890,2024-12-09,06:23:02,Burglary,Houston,TX,6077 Main St,89,Female,White
+891,2024-05-12,19:48:41,Fraud,Chicago,IL,708 Pine St,68,Non-binary,White
+892,2021-03-29,10:43:45,Homicide,San Jose,CA,2511 Broadway,71,Non-binary,Other
+893,2023-03-31,16:52:39,Domestic Violence,Los Angeles,CA,3812 Oak St,33,Male,Black
+894,2023-02-11,03:16:55,Theft,Philadelphia,PA,8957 Main St,52,Other,Other
+895,2023-06-19,02:40:16,Assault,Houston,TX,7232 Maple Ave,83,Male,Other
+896,2020-09-13,11:05:12,Domestic Violence,Houston,TX,3075 Main St,63,Non-binary,Black
+897,2024-01-12,16:08:35,Homicide,New York,NY,5261 Elm St,57,Female,Asian
+898,2023-03-09,07:03:49,Arson,San Antonio,TX,480 Elm St,69,Other,Other
+899,2023-04-04,08:56:00,Drug Offense,San Diego,CA,3573 Main St,20,Other,Other
+900,2022-05-07,11:43:56,Drug Offense,Dallas,TX,592 Broadway,18,Non-binary,White
+901,2022-09-21,08:03:11,Drug Offense,Dallas,TX,692 Broadway,28,Non-binary,Other
+902,2020-11-18,10:00:37,Vandalism,San Antonio,TX,4819 Oak St,58,Female,Other
+903,2024-10-03,10:29:29,Assault,Los Angeles,CA,9681 Maple Ave,12,Other,Black
+904,2021-04-13,03:36:54,Assault,Chicago,IL,7215 Broadway,78,Other,White
+905,2021-11-18,08:38:26,Homicide,Dallas,TX,5599 Pine St,64,Male,Asian
+906,2023-03-24,10:37:12,Burglary,Dallas,TX,6426 Main St,29,Female,Hispanic
+907,2020-12-09,17:31:00,Fraud,Phoenix,AZ,2746 Maple Ave,61,Other,Black
+908,2020-09-29,21:23:05,Arson,San Antonio,TX,6882 Maple Ave,21,Female,Asian
+909,2022-11-18,07:40:25,Domestic Violence,New York,NY,7327 Elm St,85,Other,Hispanic
+910,2022-12-01,13:31:25,Vandalism,Dallas,TX,4352 Maple Ave,72,Non-binary,White
+911,2022-02-18,14:38:01,Burglary,Chicago,IL,5913 Broadway,68,Non-binary,Asian
+912,2023-01-27,19:30:35,Burglary,San Diego,CA,8689 Main St,15,Female,Hispanic
+913,2020-09-14,13:32:38,Robbery,Phoenix,AZ,5822 Main St,20,Female,Other
+914,2025-04-08,06:22:00,Theft,Houston,TX,3576 Maple Ave,71,Male,Other
+915,2022-11-07,21:58:53,Arson,Dallas,TX,3505 Pine St,87,Male,Asian
+916,2021-10-09,14:10:31,Fraud,Chicago,IL,1233 Main St,84,Other,Other
+917,2022-09-24,13:57:07,Assault,Dallas,TX,4070 Pine St,49,Other,Asian
+918,2025-01-20,18:24:50,Robbery,Houston,TX,4881 Maple Ave,81,Male,Hispanic
+919,2024-06-21,00:55:54,Assault,San Jose,CA,8104 Main St,45,Male,Other
+920,2022-10-17,02:15:11,Assault,Houston,TX,8160 Oak St,53,Non-binary,Black
+921,2022-06-11,15:43:16,Assault,San Jose,CA,6894 Elm St,61,Non-binary,Hispanic
+922,2022-02-18,11:04:04,Drug Offense,San Jose,CA,6063 Broadway,87,Female,Black
+923,2021-05-18,23:26:56,Fraud,San Diego,CA,5941 Main St,66,Non-binary,Black
+924,2025-07-17,14:03:22,Theft,Los Angeles,CA,7298 Oak St,65,Female,Other
+925,2020-10-22,07:35:50,Homicide,San Diego,CA,618 Broadway,65,Other,Hispanic
+926,2020-11-25,09:28:22,Arson,Dallas,TX,1626 Maple Ave,47,Male,White
+927,2024-10-13,07:28:32,Robbery,San Jose,CA,8801 Pine St,80,Female,Asian
+928,2023-06-26,02:16:29,Domestic Violence,Los Angeles,CA,1787 Maple Ave,39,Non-binary,Other
+929,2022-03-10,05:01:12,Vandalism,Phoenix,AZ,6119 Broadway,33,Male,Asian
+930,2022-02-12,07:26:41,Assault,Philadelphia,PA,2662 Pine St,35,Male,Black
+931,2023-08-27,13:00:29,Robbery,San Diego,CA,915 Pine St,35,Non-binary,Asian
+932,2024-08-06,04:01:40,Vandalism,Houston,TX,4917 Broadway,69,Male,Black
+933,2024-09-26,21:44:47,Theft,New York,NY,4384 Broadway,80,Female,White
+934,2021-12-13,16:59:40,Robbery,Chicago,IL,4052 Broadway,16,Female,Black
+935,2020-08-26,16:46:15,Arson,Dallas,TX,5493 Pine St,15,Other,Black
+936,2022-01-07,02:24:30,Fraud,Dallas,TX,3066 Maple Ave,62,Male,Hispanic
+937,2024-10-09,23:23:46,Fraud,San Diego,CA,6408 Elm St,22,Male,White
+938,2021-01-04,21:12:14,Fraud,Dallas,TX,2052 Elm St,79,Male,White
+939,2024-10-20,01:56:02,Domestic Violence,Houston,TX,6991 Oak St,14,Non-binary,Asian
+940,2021-10-15,07:01:59,Homicide,New York,NY,3894 Pine St,83,Other,Hispanic
+941,2023-12-09,17:27:06,Burglary,Houston,TX,3866 Main St,76,Other,Black
+942,2023-05-22,17:22:59,Arson,San Diego,CA,9122 Elm St,24,Other,White
+943,2022-08-19,14:48:56,Domestic Violence,Phoenix,AZ,9178 Elm St,18,Non-binary,Other
+944,2023-08-27,02:13:19,Drug Offense,San Jose,CA,2958 Main St,85,Female,Hispanic
+945,2024-12-03,08:51:50,Homicide,Chicago,IL,5615 Broadway,44,Male,Hispanic
+946,2022-02-04,16:09:32,Domestic Violence,Dallas,TX,535 Maple Ave,69,Female,Asian
+947,2021-08-18,20:33:20,Drug Offense,Chicago,IL,5209 Pine St,52,Female,Asian
+948,2021-10-16,14:37:47,Domestic Violence,Philadelphia,PA,9964 Maple Ave,68,Female,Hispanic
+949,2024-09-26,05:56:05,Robbery,Dallas,TX,8473 Pine St,41,Non-binary,Other
+950,2022-05-06,11:05:54,Theft,Philadelphia,PA,9873 Maple Ave,75,Female,White
+951,2021-04-12,21:30:03,Robbery,New York,NY,127 Main St,77,Non-binary,Other
+952,2023-02-26,23:35:57,Arson,San Diego,CA,6180 Elm St,44,Non-binary,White
+953,2021-03-09,17:01:21,Arson,San Diego,CA,8788 Main St,41,Male,White
+954,2023-10-03,00:41:35,Vandalism,Philadelphia,PA,4967 Broadway,57,Non-binary,Other
+955,2023-01-11,00:19:52,Drug Offense,Los Angeles,CA,7921 Pine St,33,Other,Black
+956,2021-11-06,07:00:57,Vandalism,San Diego,CA,2069 Maple Ave,67,Female,White
+957,2022-06-24,01:42:06,Homicide,San Jose,CA,3944 Elm St,83,Other,Hispanic
+958,2025-01-14,19:09:43,Homicide,Los Angeles,CA,9532 Main St,55,Female,Hispanic
+959,2022-05-10,12:57:52,Drug Offense,San Jose,CA,4895 Maple Ave,63,Non-binary,Black
+960,2023-01-01,11:03:18,Arson,Chicago,IL,3978 Main St,12,Male,Other
+961,2021-04-13,13:24:25,Arson,Phoenix,AZ,4909 Main St,71,Non-binary,Black
+962,2025-05-07,20:19:08,Burglary,Phoenix,AZ,3562 Maple Ave,68,Other,Black
+963,2021-08-05,08:19:20,Robbery,Los Angeles,CA,2489 Main St,76,Male,White
+964,2025-03-26,22:02:54,Vandalism,Chicago,IL,390 Broadway,89,Non-binary,Hispanic
+965,2022-03-02,05:06:43,Fraud,San Antonio,TX,528 Maple Ave,22,Non-binary,Black
+966,2023-03-13,20:47:58,Fraud,San Diego,CA,8349 Pine St,13,Non-binary,White
+967,2025-03-29,21:57:54,Fraud,Dallas,TX,6882 Elm St,67,Non-binary,Hispanic
+968,2020-12-22,02:23:04,Arson,Phoenix,AZ,9544 Pine St,78,Male,Hispanic
+969,2020-12-18,18:47:34,Burglary,New York,NY,5270 Maple Ave,62,Other,Other
+970,2023-03-13,03:51:48,Theft,New York,NY,7597 Oak St,89,Female,Black
+971,2021-04-11,03:55:20,Vandalism,Houston,TX,5560 Oak St,57,Female,Hispanic
+972,2023-12-30,19:02:29,Fraud,Houston,TX,8509 Pine St,41,Female,White
+973,2024-06-11,02:20:05,Burglary,Dallas,TX,9497 Elm St,70,Non-binary,Other
+974,2025-05-28,19:52:16,Arson,Phoenix,AZ,319 Broadway,86,Female,Black
+975,2024-08-04,04:11:30,Drug Offense,Dallas,TX,9952 Pine St,58,Non-binary,Hispanic
+976,2023-10-06,10:23:51,Homicide,San Jose,CA,5199 Broadway,45,Male,Asian
+977,2025-04-24,16:00:20,Theft,Los Angeles,CA,5567 Broadway,60,Female,Hispanic
+978,2025-02-11,20:52:12,Robbery,Chicago,IL,2932 Oak St,83,Other,Hispanic
+979,2022-06-14,09:15:36,Fraud,Dallas,TX,5228 Maple Ave,35,Non-binary,Asian
+980,2022-09-20,21:24:06,Homicide,New York,NY,1999 Pine St,72,Non-binary,Other
+981,2023-07-20,07:24:18,Homicide,San Jose,CA,9059 Pine St,74,Female,Other
+982,2024-05-04,07:17:12,Burglary,San Diego,CA,8979 Pine St,86,Non-binary,Asian
+983,2022-06-14,18:54:46,Homicide,Phoenix,AZ,1663 Maple Ave,24,Female,White
+984,2021-03-08,23:29:21,Vandalism,Los Angeles,CA,171 Pine St,62,Other,Other
+985,2024-04-30,04:55:31,Arson,San Antonio,TX,4428 Broadway,74,Male,White
+986,2021-08-17,08:32:58,Assault,San Antonio,TX,7956 Maple Ave,75,Non-binary,Other
+987,2023-08-20,22:57:52,Assault,San Jose,CA,8507 Pine St,84,Female,Asian
+988,2021-08-22,08:15:08,Burglary,Chicago,IL,2683 Pine St,44,Other,Black
+989,2024-11-16,08:42:42,Vandalism,Chicago,IL,2039 Broadway,51,Male,Black
+990,2024-08-15,06:26:50,Theft,Chicago,IL,6079 Elm St,54,Female,Black
+991,2024-01-21,06:00:31,Domestic Violence,Chicago,IL,6609 Maple Ave,82,Male,Asian
+992,2024-06-05,03:33:03,Arson,San Diego,CA,7946 Broadway,71,Male,Black
+993,2024-03-22,18:37:57,Assault,Phoenix,AZ,5162 Elm St,57,Female,Hispanic
+994,2021-04-16,08:06:42,Burglary,San Jose,CA,2095 Maple Ave,67,Female,Asian
+995,2025-05-15,13:34:13,Drug Offense,San Diego,CA,7516 Oak St,79,Male,Asian
+996,2023-02-23,07:24:57,Assault,New York,NY,2793 Oak St,72,Female,Asian
+997,2024-10-15,18:10:35,Drug Offense,San Jose,CA,2798 Elm St,26,Male,Other
+998,2024-02-08,04:00:11,Assault,Houston,TX,8950 Pine St,34,Non-binary,Hispanic
+999,2023-01-18,16:52:36,Homicide,Chicago,IL,4673 Oak St,16,Other,Hispanic
+1000,2022-07-19,01:28:45,Homicide,Los Angeles,CA,5226 Oak St,54,Male,White
